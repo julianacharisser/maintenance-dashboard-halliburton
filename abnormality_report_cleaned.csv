@@ -1,0 +1,1589 @@
+Abnormality_ID,MaintenanceProblemCode,Problem Description,Employee_Name,SafetyIssue,MachineDownNew,Date_Created,DateClosed,Action Owner,MachineHoursLost,TotalHoursToClose,Maint Tech Notes/Abnormality Action Item Notes
+45557,Alarm Machine Down,Telescopic cover opened,64db4c8a67,No,No,2016-03-04 09:08:15,2016-03-04 10:20:41,cba0ba69c9,0,1.2,done
+46292,Door Issue,Door interlock key broken.,f5eec0c0aa,Yes,Yes,2016-05-04 22:55:03,2016-05-13 23:26:54,49b43321e6,140.1,216.5,"S no 237566
+E500
+found the door interlock key is bend replaced 
+new key ok
+H/O"
+46986,Alarms Machine not Down,"Tool change at the time ATC ALARAM,(292 No Tool Unload tool in magazine)",2f42bc8acf,No,No,2016-06-13 12:26:37,2016-06-13 14:29:31,3de2e22f41,0,2.1,found the tool detect sensor dirty sensor cleaned and tested found okey machine handed over to production (monitoring)
+47229,Alarm Machine Down,"Appeared 209 Slidway lube malfunction alarm, need to open the machine cover for refill the grease",200c10adb1,No,Yes,2016-06-24 10:38:29,2016-06-24 12:58:15,967727c350,2.3,2.3,"Grease top up and reset.
+
+!2:15-12:45P.M"
+47914,Door Issue,"Machine Door interlock Key locking & unlocking not functioning
+
+Requested by 
+Prasanna",3ece55ca19,Yes,No,2016-08-01 09:03:51,2016-08-03 12:05:42,967727c350,0,51,"0Interlock key and head replaced and checked O.k.
+
+Worked with Aibin"
+48690,Coolant issues,"COOLANT COME OUT FROM HIGH PRESSURE COOLANT TANK, NEED TO CHECK AND CHANGE.",3e06d28e1c,Yes,Yes,2016-09-20 10:07:34,2016-09-22 09:45:42,3e7a0d0bbb,32.3,47.6,"suck cramoil then top up water test ok, then handover to production."
+48878,Door Issue,MAIN DOOR INTER LOCK NOT WORKING .,f5eec0c0aa,Yes,Yes,2016-09-30 05:59:42,2016-09-30 10:55:03,3de2e22f41,3.4,4.9,duplicate ticket closed by sampath kumar
+48879,Door Issue,D,3e06d28e1c,Yes,Yes,2016-09-30 07:55:31,2016-09-30 10:51:47,3de2e22f41,2.9,2.9,"Door inter lock switch key broken key replaced with new one tested okey machine handed over to production
+door inter lock switch part no; R49ZZ000430   (1 no)"
+48916,Machine leaks,"When machine running time air hose bust inside the Monitor pannel board, caused appeared Air pressure down alarm and machine stopped suddenly.
+",200c10adb1,Yes,Yes,2016-10-04 14:29:05,2016-10-04 16:16:20,3e7a0d0bbb,1.8,1.8,FOUND AIR HOSE FITTING TEAR THEN TEST OK HANDOVER TO PRODUCTION.
+51924,Coolant issues,COOLANT LEAK  FOUND AT  COOLANT TANK SIDE.,f5eec0c0aa,Yes,Yes,2017-01-13 10:12:53,2017-01-13 16:00:00,49b43321e6,5.8,5.8,"found leak from below tailstock, due  to many chips block the coolant  below the telescopic cover clear the chip test 
+no leak 
+H/O 
+"
+55181,Coolant issues,"FLOOT COOLANT NOSIEL MISSING,NEED TO REPLACE.
+NAME-C.KALIYAMOORTHY
+MACHINE-GC035300",2f42bc8acf,No,Yes,2017-04-19 13:23:24,2017-04-19 14:26:44,49b43321e6,1.1,1.1,"Replaced the Fllod coolant nozzle test ok 
+H/O
+done by 
+Jaya/Liang"
+56892,Door Issue,"DOOR INTERLOCK SAFETY KEY ISSUE.  WETHER TOTAL ASSEMBLY COME OUT OR BROKEN.
+",3ece55ca19,Yes,Yes,2017-06-28 10:04:52,2017-06-29 11:51:20,3de2e22f41,19.4,25.8,"inter lock key holder plate broken
+plate replaced with new one and tested okey machine handed over to production
+attended by sampath kumar"
+58221,Alarm Machine Down,"In running job when recall the sequnce appeared below alarm, its may be due to Virus or other issue dont know, please come and check.
+""M740 EIA PRO MFC........has stopped working"" In between have some other language words.",22d96724ac,No,Yes,2017-08-17 10:08:37,2017-08-21 10:41:15,49b43321e6,63.2,96.6,"Reset the alarm OFF and ON  main power ok. Monitoring
+H/O"
+58222,Problem Not Listed,program page empty on disply screen,25be1ed09a,Yes,Yes,2017-08-17 10:40:09,2017-08-17 12:53:09,49b43321e6,2.2,2.2,"repeted ticket closed by sampath kumar
+refer previous ticket no 58221"
+58675,Door Issue,"GC035300-1   E-500-01 
+DOOR INTERLOCK KEY PROBLEM ....",7a438f3595,Yes,Yes,2017-09-06 06:17:25,2017-09-06 10:48:24,8fbfb9c567,3.3,4.5,"Left side door interlock pin and connector damaged so replaced new set then monitoring ok,H/O production BY V.Ravi"
+59189,Steady rest issues,steady rest cable  cover (box) open,7a438f3595,Yes,Yes,2017-09-26 16:24:37,2017-09-27 12:47:50,c2c16692c4,16.9,20.4,"Replaced the new work rest cable bearer replaced with new one tested okey machine handed over to production
+attended by sampath /parthiban/hai liang"
+59449,Tool changer issues,tool change 291 no tool unload mah,7a438f3595,No,Yes,2017-10-07 03:01:31,2017-10-09 09:47:01,967727c350,32.3,54.8,"magazine alarm reset tested okey machine handed over to production
+attended by sampath/kotian"
+59911,Door Issue,Panel board can't move heavy tight already two three time repair ready again panel board heavy tight.so need repair permantly..,239582eeae,No,Yes,2017-10-26 08:40:56,2017-10-27 10:10:13,3de2e22f41,17.7,25.5,"contorl pannel linier bearing guide ways alaigenment work carried out tested okey machine handed over to production 
+attended by sampath /kotian
+Found normal closed on 27102017"
+60023,Digital Readout Problem,Feed rate does not seem in rapid mode.,73c3a12a64,Yes,Yes,2017-10-31 13:12:20,2017-11-15 10:11:11,49b43321e6,227.5,357,program issue done by PTL.
+60504,Alarms Machine not Down,Alarm : 291 no tool unload ( tool in magazine).,e75a01c43e,No,Yes,2017-11-28 06:03:01,2017-11-29 08:11:48,eb22595030,15.7,26.1,"Machine in busy 
+under monitoring.
+Need shedule for fix the issue.
+Attended By
+Parthiban/Ai BIn
+"
+60584,Alarm Machine Down,"RUNNING TIME  ""M740 EIA PRO MFC HAS STOPPED WORKING"" ALM APPEAR.",a96fb8ce35,Yes,Yes,2017-12-01 09:06:50,2017-12-04 13:22:06,8fbfb9c567,50.9,76.3,"Switch off M/c then reset alarm clear  m/c  h/o  production but Under monitoring 
+
+ now no issue so close ticket by Ravi"
+60741,Alarm Machine Down,1)291 NO TOOL UNLOAD(TOOL IN  MAG.).,a96fb8ce35,Yes,Yes,2017-12-11 10:03:37,2017-12-12 09:51:04,3de2e22f41,17.4,23.8,"magazine side tool detect sensor dirty sensor cleaned and tested okey machine handed over to production
+machine under monitoring
+No issues closed on 12/12/2017
+attended by sampath"
+60901,Door Issue,"operator- pravinkumar
+machine- GC 035300-1
+
+DOOR INTERLOCK CAN'T WORK.",6a5bc6f375,Yes,Yes,2017-12-20 14:24:30,2017-12-20 16:13:08,967727c350,1.8,1.8,"Replaced damaged left side interlock key, do check ok. HOP.
+
+Done by Sampath / Kotian."
+61173,Spindle issue,mill spindle load is too high ( above 150%) while running Twin boring bar & KSEM drill.,e75a01c43e,No,Yes,2018-01-12 16:35:06,2018-01-22 18:27:52,967727c350,157.4,241.9,"found that coolant enter because of dented cover.cleaned and cjheckef motor winding found normal. H/O and moniotred 2 days. o.k
+
+Kotan/Aibin/Jaya"
+61238,Axis is Noisy,While moving the Z axis the telescopic cover is too noisy.,2df58cecb3,No,Yes,2018-01-17 09:14:21,2018-04-24 18:11:03,cba0ba69c9,1465.7,2337,"Z axis having noisy, Z axis bearin replaced still problem. Replaced Zaxis ball screw and alligned tset cut done and checked o.k.
+
+Sampath/Kotian/Aibin/P.M team /Mazak."
+61309,Alarm Machine Down,chiller unit malfunction alarm,2df58cecb3,No,Yes,2018-01-20 11:54:37,2018-01-27 10:49:39,967727c350,108.3,166.9,"Compressor faulty. Waiting for replace and service.Serviced by Soon teck on 25/1/18. Fixed and checked O.k. H/O.
+
+Kotian/Sampath/aiibin"
+61433,Axis is Noisy,Z AXIS teliscopies heavy noisy,08a3a1cd96,No,Yes,2018-01-29 12:06:04,2018-01-29 14:59:57,967727c350,2.9,2.9,WO 61238 This is a multi wo. Bearing ordered . Waiting for spare
+61515,Problem Not Listed,Mist collector is not working,22d96724ac,No,Yes,2018-01-31 18:08:01,2018-02-28 14:00:49,a0c4f3f697,421.4,667.9,waiting for drum filter.Replaced drrum filter on 28/2/18 by Aibin.
+61594,Problem Not Listed,chiller unit malfuntion,32def503ac,No,Yes,2018-02-06 12:36:28,2018-02-14 11:50:00,a0c4f3f697,124.3,191.2,"Found temp goes below 10 degrees cause freeze and water leak. Since it was recently serviced by Soon tech called them to check.
+On 7/2/18,they came here and checked found normal. No abnormal found. H/o annd informed to monitor. 
+Now m/c is running normal."
+63258,Problem Not Listed,"Mill spindle is getting over load while doing twin bore operation,load goes upto 110 to 120 which is consider as a abnormal load.",e0847caded,No,Yes,2018-05-23 08:56:08,2018-05-24 08:06:32,3de2e22f41,15.6,23.2,"Problem rectified by mazak/mitsubshi
+attended by aibin"
+63556,Steady rest issues,steady rest cover damaged need to change.,e082b1900a,No,Yes,2018-06-13 08:18:01,2018-06-13 18:24:43,967727c350,10.1,10.1,Steady rest cover provided.
+65754,Tool changer issues,291 NO TOOL UNLOAD  ALARM .....,7a438f3595,No,Yes,2018-08-24 09:53:28,2018-08-26 15:32:57,3de2e22f41,38,53.7,Cleaned the sensor.
+67457,DNC Problem,M740 EIA PRO MFC ........... HAS STOPPED  WORKING,7a438f3595,No,Yes,2018-10-04 12:37:01,2018-10-04 14:41:56,3de2e22f41,2.1,2.1,"alarm massage cleared and handed over to production
+attended by hai liang / sampath"
+68272,Door Issue,MACHINE SAFETY DOOR GLASS CRACKED,d3d67f71a3,Yes,Yes,2018-11-17 01:24:05,2018-11-27 08:51:39,a0c4f3f697,151.4,247.5,"safety door replaced with new one tested and handed over to production
+attended by aibin/jaya/kotian"
+69466,Conveyor Problem,thermal trip alrm,dc5b4a6594,No,Yes,2019-02-04 22:26:15,2019-02-05 12:43:01,eb22595030,10.8,14.3,"Checked and found chips jammed inside conveyor. Cleared the chips and rest . H/o.
+
+Jaya/parhiban"
+70294,Machine Crash,need to check the alignment of the turret.,e75a01c43e,No,Yes,2019-03-26 07:58:53,2019-03-27 15:22:45,49b43321e6,22.9,31.4,duplicate ticket refer ticket no;70300
+70300,Axis Is not align,axis alignment out. need to check all axis. pls help.,e75a01c43e,No,Yes,2019-03-26 10:25:02,2019-03-27 14:25:14,eb22595030,21.9,28,"Testcut and alignment done.
+After alignment
+OD +0.0005""
+ID 0.0005""
+Legth -.0006""
+Tailstock Taper with in 0.0003""
+Tailstock to Steady Rest 0.0002""
+Handover top production
+Done By
+Parthiban/Jaya
+26/03/2019"
+71153,Steady rest issues,Steady rest cover miss,4edf9b033e,Yes,Yes,2019-05-18 16:16:56,2019-05-19 11:20:03,8fbfb9c567,11.7,19.1,Operator  bearing bottom rectangle plate missing. so i fixed new plate with screw tested with operaot okso H/O m/c By V.RAVI
+72009,Coolant issues,LBB bar coolant leaking issue,4edf9b033e,No,Yes,2019-07-10 15:23:31,2019-07-12 13:25:25,3de2e22f41,33.5,46,"Replaced hose and LBB alignment done.
+Testing ok and handed over to production.
+
+Attended By
+Sampath/Parthiban"
+72292,Problem Not Listed,"Steady rest alignement adjustable bolt bend , need to replace new bolt. front side",22d96724ac,No,Yes,2019-07-26 16:28:29,2019-07-27 09:37:48,02c8833e6d,13.7,17.2,"Replaced with new bolt.
+
+Attend by Sampath/Kumar."
+72714,Steady rest issues,steady rest cover is not fuction properly,94ecc3a98e,No,No,2019-08-22 12:43:09,2019-08-22 12:46:16,eb22595030,0,0.1,"Steady rest cover spring and screw replaced.
+working normal"
+72860,Problem Not Listed,while machine running time machine automatically  get emergency alarm.,e082b1900a,No,No,2019-08-30 11:57:44,2019-08-30 12:37:31,a0c4f3f697,0,0.7,RESET AND H/O. MONITORED O.K. H/O
+74337,Steady rest issues,need to change steady rest cover it makes line mark at OD in the piece,4edf9b033e,No,Yes,2019-11-25 15:33:11,2019-11-25 17:28:45,eb22595030,1.9,1.9,"Replaced screw,spring and blade"
+74450,Coolant issues,coolant canot coming.,32def503ac,No,No,2019-12-03 12:33:50,2019-12-03 12:55:19,49b43321e6,0,0.4,"found coolant line block clean the hose test ok
+H/O
+by
+jayaprakasam"
+74608,Axis is Noisy,machine change bearing roller,32def503ac,No,No,2019-12-12 13:23:33,2019-12-12 18:27:00,8ba0076dee,0,5.1,"CHANGED NEW 3 BEARING .ALREADY ,HIAILIANG AND SAMPATH."
+75662,Machine Incident,"machine crash, overload alram",d3d67f71a3,No,Yes,2020-02-21 08:54:25,2020-02-23 07:58:23,8fbfb9c567,30.5,47.1,"we found Runout 40 micron , B0 side X +80 micron parallelism out and b90 side Z-80 micron out and B axis home position out 0.0132""
+
+We starts the alighnment Y axis box take out ...
+
+>> Physical alignment done  XZ at B0 and B90 with in 4micron..
+Testcut Started
+Attended by
+Jaya/Parthiban/Hailiang
+
+22-02-2020 
+
+M16,M5,BA61, BA62.THEN TOOL EYE , TESTCUT DONE. 
+Pending  only Steady Rest and Tailstock alignhment 
+Ravi/Sampath
+
+>> Tailstock and Steadyrest alignment done,With in 0.001""
+
+Machine hand over to production 
+
+Attended by
+Parthiban/Hailiang
+"
+76081,Steady rest issues,NEED CHANGE STEADY REST COVER,4edf9b033e,No,Yes,2020-03-16 08:22:54,2020-03-16 10:26:52,49b43321e6,2.1,2.1,"NEW COVER REPLACED OK
+BY
+JAYA"
+76213,Chiller Unit Malfunction,301-chiller unit malfunction.,271856af31,No,Yes,2020-03-24 00:15:16,2020-03-24 03:53:03,8fbfb9c567,0,3.6,"Checked chiller unit E6 alarm occured.
+Replaced another spare chiller unit from maintenance.
+Details of Chiller unit:
+1210-Z2457-H64
+Model # KMV-150-M37-001
+Al Hydraulic fittings and connections replaced and leaks checked.
+Funtion test verified.
+Machine handed over to production.
+
+Attend By Sampath/Ravi/Kumar/Liang.
+"
+76672,Steady rest issues,STEADY REST CABLE BARRER BOLCK BROKEN,973b9d73e9,Yes,Yes,2020-04-21 16:42:01,2020-04-21 21:42:58,02c8833e6d,5,5,
+76887,Door Issue,CAN NOT CLOSE,4edf9b033e,Yes,Yes,2020-05-05 20:16:36,2020-05-05 21:57:10,a0c4f3f697,1.7,1.7,"changed new key ok ,aibin and jaya."
+77169,Steady rest issues,COOLING NOT GOOD,4edf9b033e,Yes,Yes,2020-05-20 20:31:18,2020-05-20 22:07:10,eb22595030,1.6,1.6,"Replaced Nozzle ( Mazak E00PBA6E010  NOZZLE)'=
+Testing ok
+Done by
+Parthi/Jaya"
+77185,Alarm Machine Down,C AXIS OVERLOAD ALARM APPEAR DURING CHANGING JAWS.,973b9d73e9,Yes,Yes,2020-05-21 12:53:31,2020-05-21 13:38:22,02c8833e6d,0.8,0.8,"Checked and found tool hit on the jaws on manual mode operation.
+Taken accuracy test and marking all measurements
+will continue tool eye check-Sampath/Kumar/Ravi
+
+"
+77186,Axis Is not align,"TEACH TOOL EYE OFFSET THEN RUNNING THE MACHINE PART O.D SIZE +.005"" AND PART I.D SIZE +.004"".PART Z-VALUE ALSO EFFECT
++.004"".",973b9d73e9,Yes,Yes,2020-05-21 13:46:43,2020-05-22 01:42:11,02c8833e6d,11.9,11.9,"Adjusted M16,BA61 Parameter
+Tool eye calibration done
+OD 0.000""
+ID -0.0012""  Length 0.0006""
+Tailstock tapper 0.0008""
+Tailstock to steadyrest 0.0002""
+
+Hand over and done by
+Parthiban/Jaya/Kumar/Ravi
+21/05/2020"
+77289,Axis Is not align,"MACHINE DINMENTION VARIATION OD +0.007, ID +0.006",973b9d73e9,Yes,Yes,2020-05-29 09:00:52,2020-05-30 07:49:01,8ba0076dee,15.3,22.8,"mill spindle home position corrected and test cut taken tool eye and tail alignment corrected workrest alignment continued in night shift 
+align by sampath /hai liang
+
+Verified steadyrest alignment to tailstock,with in 0.0005"" and staedy rest tapper with in 0.0003""..
+Informed  to PTL  and handover to production
+Checked by
+Parthiban/Jaya
+30/05/2020(Night)"
+77383,Alarm Machine Down,TOOL SHIFTER &CARRIER  POSITION ERROR,973b9d73e9,Yes,Yes,2020-06-04 09:11:56,2020-06-04 15:57:09,967727c350,6.8,6.8,Recovery done and hand over
+77693,Alarm Machine Down,TOOL SHIFTER AND CARRIER POSI ERROR,973b9d73e9,No,Yes,2020-06-23 08:41:46,2020-06-23 16:56:22,967727c350,8.3,8.3,"Problem:TOOL SHIFTER AND CARRIER POSI ERROR
+Cause:-
+Action Taken : Reset and handover
+Attended by:Kotian"
+77710,Tool changer issues,START BUTTON CONTINUE ON.,1a5da361c5,No,Yes,2020-06-23 15:36:41,2020-06-23 17:07:25,eb22595030,1.5,1.5,"Problem:  ATC problem
+Cause:May be  reset while tool change or single block time over
+Action Taken; Reset and testing ok
+Attended by:Parthiban"
+78154,Alarm Machine Down,TOOL SHIFTER ALARM,1a5da361c5,No,Yes,2020-07-16 18:41:53,2020-07-17 02:10:42,967727c350,7.5,7.5,"Problem: Shifter alarm
+Cause: Cycle reset
+Action: Recovered ATC and rese and h/o.t."
+78169,Alarm Machine Down,133 STOP SPINDLE,e0847caded,No,Yes,2020-07-20 08:50:10,2020-07-20 22:19:30,8fbfb9c567,13.5,13.5,High pressure coolant alarm with 133 spindle stop alarm together  will come We replaced coolant bag tested ok H/O Production by Ravi and liang
+78293,Door Issue,Door interlock issue,d3d67f71a3,Yes,Yes,2020-07-26 15:27:28,2020-07-26 16:15:25,3de2e22f41,0.8,0.8,"problem : door inter lock key broken
+cause : damage
+action; key replaced with new one tested okey machine handed over to production
+Attended by : sampath"
+78317,Coolant issues,Shower coolant system not working.,e0847caded,No,No,2020-07-28 13:01:06,2020-09-02 00:46:58,02c8833e6d,0,851.8,"28-07-2020
+Shower coolant solenoid valve malfuntion.
+Waiting for parts
+Machine handed over to production without using shower coolant
+
+01-09-2020 - Parts received
+
+Date : 02/09/2020
+Problem :Shower coolant system not working. 
+Cause : coolnt valve jammed.
+Corrective Actionl : replaced coolant valve
+Spare Parts Replaced : Mazak part no G50CB013150 COOLANT VALVE 1No
+Done By : jayaprakasam/liang /parthi
+
+Date:28/7/2020 1:01 PM
+Problem :Shower coolant system not working. 
+Cause : 
+Corrective Action : replaced coolant valve
+Spare Parts Replaced : Mazak part no G50CB013150 COOLANT VALVE 1No
+Done By :
+
+"
+78486,Coolant issues,COOLANT LEAK FROM CHUCK BACK SIDE .,1a5da361c5,No,No,2020-08-08 23:32:31,2020-08-09 00:45:48,8ba0076dee,0,1.2,Chuck inside Plug little bit moved so coolant leaking from chuck inside way We arrested plug correct position Tested ok H /O production By Ravi and liang
+78669,Problem Not Listed,"TOOL EYE ALIGNMENT IS NOT MATCHING WITH TOOL OFFSET, OFFSET VARY FREQUENTLY.",e0847caded,No,Yes,2020-08-20 18:57:19,2020-08-21 14:16:53,49b43321e6,15.8,19.3,"ID bore matching on correct size +0.019 ( thearding also) so need to test cut 
+
+Problem: Tool Eye Measurement variation
+
+cause:
+
+corrective Action: use test bar to check  Alignment Runout and parallellism all in with in spcification.With in 0.0008""
+Use test bar to measure the OD and Length its with in 0.0003"" 
+
+Done by
+jayaprakasam"
+78673,Move error,"1-MACHINE CLOSE/OPEN DOOR VERY TIGHT.
+2-MACHINE PANNEL BOARD MOVING PART VERY TIGHT.
+3-LONG BORING BAR (LBB) VIBRATION IF CUT ROUGH CUT.",1a5da361c5,No,No,2020-08-21 05:33:08,2020-08-21 13:55:14,49b43321e6,0,8.4,"Date :21/8/2020
+
+Problem : 1-MACHINE CLOSE/OPEN DOOR VERY TIGHT.
+2-MACHINE PANNEL BOARD MOVING PART VERY TIGHT.
+3-LONG BORING BAR (LBB) VIBRATION IF CUT ROUGH CUT.
+Cause :
+
+Corrective Action :1. chip stuck into guide ways cleaned and                                  test Okay.
+                             2. clean the l;inear guide and apply grease                                 ok.
+
+                             3. its application iissue.  
+Spare Parts Replaced :
+
+
+Done By :
+Jayaprakasam
+
+"
+78827,Chiller Unit Malfunction,Chillar unit runs with abnormal noice,e0847caded,No,Yes,2020-09-02 07:55:32,2020-09-02 11:51:30,02c8833e6d,3.9,3.9,"Date:2/9/2020 7:55 AM
+Problem : Chillar unit runs with abnormal noice
+Cause : Strainer choke-Serviced and tested
+Corrective Action : serviced
+Spare Parts Replaced :No
+Done By :Kumar/Ravi/Aibin
+"
+78909,Problem Not Listed,"When performing the ID boring operation with LBB bar occuring chatering.
+Chattering have in INC and normal material",22d96724ac,No,Yes,2020-09-08 13:36:16,2020-09-08 17:59:08,02c8833e6d,4.4,4.4,"Date :8-9-2020
+Problem :  ID boring Chatteeing
+Cause : May be  too much length (32.5"" long )
+Corrective Action : Reduce the lbb length  28""{
+Spare Parts Replaced : nil
+Done By :Ravi and Kumar
+
+"
+78915,Coolant issues,Coolant pumps are not working,e0847caded,No,Yes,2020-09-08 21:48:46,2020-09-09 03:19:22,eb22595030,5.5,5.5,"Date:08/09/2020
+Problem : Coolant pumps are not working
+Cause : Operator mistakenly coolant off button key pressed. 
+Corrective Action : All coolant working normal.
+Spare Parts Replaced :-
+Done By :Parthiban
+"
+79045,Emergency Stop Will Not Reset,emergency not clear,1a5da361c5,No,No,2020-09-16 16:53:36,2020-09-16 18:23:01,8fbfb9c567,0,1.5,Tail stock half way stop due to activate emergency alarm  M/C off and On Reset ok H/O Production
+79116,Power Failure,DOOR THE PROBLEMATIC,271856af31,No,No,2020-09-22 04:47:08,2020-09-22 05:21:53,8ba0076dee,0,0.6,"Date: 22/9/2020
+Problem: Door interlock pin broken
+Cause: Wear and Tear
+Corrective Action: Replaced new interlock pin test n H/O.
+Spare parts Replaced: Door interlock pin 1no.
+Done by: Liang/Jayaprakasam
+"
+79147,Problem Not Listed,"35 OVERLOAD (&00000058 , &00010,)
+
+(when rotating C axis alarm occurred).",e082b1900a,No,Yes,2020-09-23 17:07:28,2020-09-24 06:02:01,49b43321e6,10.9,12.9,"Date : 23/9/2020
+Problem : 35 OVERLOAD (&00000058 , &00010,)
+(when rotating C axis alarm occurred).
+Cause : 
+Corrective Action : Reset and run monitor 19:30 hrs to 0615hrs no alarm.
+Spare Parts Replaced : none
+Done By : Jayaprakasam
+
+"
+79298,Axis is Noisy,Axis protection cover droped      /        work rest cable bear damaged,08a3a1cd96,Yes,No,2020-10-06 15:46:32,2020-10-06 17:36:08,eb22595030,0,1.8,"Date : 06/10/2020
+Problem:Axis protection cover droped / Steady rest coolant nozzle damaged
+Cause : 
+Corrective Action : Axis protection cover installed done and replaced coolant nozzle 
+Spare Parts Replaced : Coolant nozzle 1no ( Mazak part no: E00PBA6E010)
+Done By :Partrhiban/Liang"
+79321,Door Issue,Door limit switches malfunction,08a3a1cd96,Yes,Yes,2020-10-08 08:02:24,2020-10-08 11:00:12,49b43321e6,3,3,"date 8/10/2020
+Problem  door limit swiches malfunction
+Cause : found  the door interlock key broken
+corrective Action : replace new key Okay
+
+done by
+Jayaprakasam /Aibin
+"
+79323,Problem Not Listed,LBB bar need to re-adjust the length for part number :102743345 TOP SUB ICI part,14c656a423,No,No,2020-10-08 09:25:48,2020-10-08 17:20:47,8ba0076dee,0,7.9,"Date :08/10/2020
+Problem :Request LBB 1 Dia 60 mm extended from 28"" to 31.5""
+Cause : Job turning length
+Corrective Action: extended to 31.5"" and alignment done tested okey machine handed over to job test 
+Spare Parts Replaced :-- none
+Done By : Hai liang / sampath
+"
+79627,Door Issue,Both doors are very hard to move forward and reverse,e0847caded,No,Yes,2020-11-03 13:06:09,2020-11-03 15:49:33,49b43321e6,2.7,2.7,"Date :3/11/2020
+Problem : Both doors are very hard to move forward and reverse 
+Cause : wear & tear
+Corrective Action : clean the rail and door guide way 
+Spare Parts Replaced :
+Done By : Jayaprakasam/Kumar/ravi
+
+"
+79675,Cooljet Problem,Coolant leakage from motor in auto running condition,e0847caded,No,Yes,2020-11-09 11:53:41,2020-11-09 14:53:16,8fbfb9c567,3,3,"Date:09/11/2020
+Problem : Coolant leaking in line filter unit
+Cause : O ring damage
+Corrective Action :Replaced O ring
+Spare Parts Replaced :O ring 100mm
+Done By :Ravi/parthiban
+"
+79704,Door Issue,Door more meat tight,08a3a1cd96,Yes,Yes,2020-11-11 02:30:19,2020-11-24 16:09:14,eb22595030,203.7,325.7,"Date:11/11/2020
+Problem : Door tight
+Cause : wear and tear
+Corrective Action :  roller replaced .
+Spare Parts Replaced : replaced the roller okay.
+Done By : pathiban/jayaprakasam
+"
+79801,Problem Not Listed,"When performing the ID boring operation with LBB bar occuring chattering.
+Chattering have in INC and normal material
+LBB bar need to re-adjust the length to 28”
+",d3d67f71a3,No,No,2020-11-19 10:04:11,2020-11-19 18:38:01,eb22595030,0,8.6,"Date : 19/11/2020
+Problem: LBB bar need to re-adjust the length to 28”
+Cause : 
+Corrective Action : AS PER PRODUTION REQUIERMENT ADJUST THE LENGTH AND H/O.
+Spare Parts Replaced : NONE
+Done By : Jayaprakasam
+"
+80231,Problem Not Listed,"Repeated issue:-
+Anti-Vibration Long boring bar issue gets more vibration.",e0847caded,No,No,2021-01-06 09:12:14,2021-01-07 09:07:31,49b43321e6,0,23.9,"Date: 6/1/2021
+Problem: Anti-Vibration Long boring bar issue gets more vibration
+Cause: 
+Action taken: followup by application 
+Spare Parts Replaced:
+Done by: jayaprakasam"
+80301,Coolant issues,The mill through and flood coolant not coming in auto and manual both mode.,e0847caded,No,Yes,2021-01-13 08:51:01,2021-01-13 16:17:16,3de2e22f41,7.4,7.4,"Date :13/1/2021
+Problem :The mill through and flood coolant not coming in auto and manual both mode.
+Cause : Suspect valve issue
+Corrective Action : reset and tested few times found normal machine handed over to production machine under monitoring
+Spare Parts Replaced : NA
+Done By : sampath
+
+"
+80459,Chuck Issue,v1 can not.,bec4822ba4,No,Yes,2021-02-01 07:47:47,2021-02-01 11:48:39,3de2e22f41,4,4,"Date :01/02/2021
+Problem : Work rest cable bearer flip cover dislocated
+Cause : wear and tear
+Corrective Action : fixed back dismandled cover and tested okey machine handed over to production
+Spare Parts Replaced : nil
+Done By : sampath"
+80737,Door Issue,"door sensor problem,machine still can running even the door open..",409411a906,Yes,Yes,2021-02-26 15:02:33,2021-02-26 15:52:12,8ba0076dee,0.8,0.8,"Date :26/2/21
+Problem : door sensor problem,machine still can running even the door open..
+Cause : door inter lock key broken
+Corrective Action : key replaced with new one tested okey machine handed over to production
+Spare Parts Replaced : door inter lock key 1 piece
+Done By : hai liang / sampath"
+80738,Door Issue,"interlock door problem,door still can open even machine still running..",409411a906,Yes,Yes,2021-02-26 15:08:27,2021-02-26 15:41:01,3de2e22f41,0.6,0.6,Multiple ticket. follow ticket#80738
+80999,Control Problem,The  center  frame  won`t  open,e6f3115736,No,Yes,2021-03-20 02:29:02,2021-03-20 14:34:37,49b43321e6,7.1,12.1,"Date : 20/03/2021
+Problem :The  center  frame  won`t  open
+Cause : 
+Corrective Action : Connector corercted nad h/io
+Spare Parts Replaced :
+Done By : Kotian/Jaya"
+81041,Alarm Machine Down,3 Emergency stop alarm coming while clamping & also there is a sound from cooling unit...,e75a01c43e,Yes,Yes,2021-03-24 06:10:30,2021-03-24 15:37:46,a0c4f3f697,8.1,9.5,"Date :24/3/21
+Problem : 3 Emergency stop alarm coming while clamping & also there is a sound from cooling unit...
+Cause :
+Corrective Action : Checked and found no alarm. M/c is running
+Spare Parts Replaced :
+Done By :Aibin
+"
+81268,DNC Problem,"This machine of every time need to backup offset 0.03 and then L=12.0 having tapper for OD and ID finishing now
+so need the maintenance   GC 35300-01 machine
+                                          thanks&regard",e6f3115736,Yes,Yes,2021-04-09 04:38:08,2021-04-09 13:11:07,49b43321e6,5.7,8.6,"Date :9/4/2021
+Problem : 
+Cause :
+Corrective Action :  MULTIPLE TICKET
+Spare Parts Replaced :
+Done By :
+"
+81269,Axis Is not align,Steady rest & tail stock alignment is out. pls help to check & solve.,e75a01c43e,No,Yes,2021-04-09 06:08:15,2021-04-11 14:01:53,49b43321e6,36.5,55.9,"Date :9/4/2021
+Problem : Steady rest & tail stock alignment is out.
+Cause :
+Corrective Action  Day shift machinist  check found tail to steady out with in 0.001"" :
+no need to adjustt  alignment also informed PTL. 
+Spare Parts Replaced :
+Done By :Jayaprakasam
+"
+81284,Tool changer issues,Alarm no.)291 NO TOOL UNLOAD( TOOL IN MAG.,e082b1900a,No,No,2021-04-10 15:38:31,2021-04-11 07:21:56,49b43321e6,0,15.7,"Date :10/4/2021
+Problem : 291 NO TOOL UNLOAD( TOOL IN MAG.
+Cause :
+Corrective Action :CORRECTED
+Spare Parts Replaced :
+Done By :JAYAPRAKASAM
+"
+81302,Door Issue,Door cannot able to close.,e082b1900a,No,Yes,2021-04-13 07:50:02,2021-04-13 14:17:58,a0c4f3f697,6.5,6.5,Multiple ticket > follow Ticket#81304
+81304,Door Issue,"LH side door not able to close, because of top side door guide area one place bent. Need to do straighten.",e082b1900a,No,Yes,2021-04-13 08:38:22,2021-04-13 14:50:16,a0c4f3f697,6.2,6.2,"Date :13/4/21
+Problem : LH side door not able to close, because of top side door guide area one place bent. Need to do straighten.
+Cause :
+Corrective Action :repair ready ,checket door can closed.
+Spare Parts Replaced :
+Done By :aibin
+"
+81315,Axis Is not align,"Steadyrest and tailstock support dimension varied nee to do alignment 
+Already one job scrapped cause these alignment issue.",22d96724ac,No,Yes,2021-04-13 15:46:11,2021-04-15 18:10:48,49b43321e6,37.9,50.4,"Date :14/04/2021
+Problem : Steadyrest and tailstock support dimension varied nee to do alignment 
+Already one job scrapped cause these alignment issue. 
+Cause :
+Corrective Action :Tail taper adjusted with in 0.0015"" for 35.oo inch long job, Test cut for steady OD +0.001"" and ID is -0.0018""H/O .  
+Spare Parts Replaced :
+Done By : Jayaprakasam"
+81475,Tool changer issues,291 NO TOOL UNLOAD,ab80e4be2a,No,Yes,2021-04-24 09:11:58,2021-04-24 14:09:16,967727c350,5,5,"Date: 23/4/21
+Problem :291 NO TOOL UNLOAD 
+Cause :
+Corrective Action Claened the sensor,Checked and h/o
+Spare Parts Replaced :
+Done By :Kotian"
+81624,Tool changer issues,"Long boring bar problem, shutter door cannot close..",409411a906,Yes,Yes,2021-05-06 10:45:56,2021-05-06 13:25:49,a0c4f3f697,2.7,2.7,"Date : 6/5/2021
+Problem : Long boring bar problem, shutter door cannot close..
+Cause : SENSOR FAULTY
+Corrective Action : REPLACED THE SENSOR OKAY. H/ O.
+Spare Parts Replaced :
+Done By : JAYAPRAKASAM
+"
+81802,Door Issue,"1) Main door very hard to open and close. 
+2) Control panel slider also very hard to move.",a96fb8ce35,Yes,No,2021-05-20 02:32:28,2021-06-27 15:20:12,eb22595030,0,924.8,"Date :19/5/2021
+Problem : 1) Main door very hard to open and close. 
+                2) Control panel slider also very hard to move.  
+Cause :
+Corrective Action : 
+Spare Parts Replaced :
+Done By  sampath/ jaya
+
+Parts arrived and wills chedule to fix. Ticket is foolow up and is moved to maintenace tracker."
+81818,Tool changer issues,"ATC alarm,cannot run the machine..",409411a906,Yes,Yes,2021-05-20 13:11:28,2021-05-20 18:17:23,49b43321e6,5.1,5.1,"Date : 20/5/2021
+Problem :   ATC alarm,cannot run the machine..
+Cause : 
+Corrective Action : LBB Manually return and ATC recovred n H/O
+Spare Parts Replaced :
+Done By jaya/kotian"
+81831,Coolant issues,LBB coolant does not coming .,a96fb8ce35,No,Yes,2021-05-21 02:14:05,2021-05-21 02:46:01,eb22595030,0,0.5,"Date :20/5/2021
+Problem : LBB coolant does not coming .
+Cause :  
+Corrective Action :  
+1.Cleaned solenoid valves (YV 373) after same issue.
+2,Cleaned solenoid valve (CL10) and removed connector then working normal.
+Testing ok high pressure coolant working normal LBB and spindle.
+Spare Parts Replaced :None
+Done By :Parthiban/Liang/Ravi"
+82117,Problem Not Listed,Tool Eye want to calibrate and steady rest alignment want to check.,a96fb8ce35,No,Yes,2021-06-12 04:10:45,2021-06-17 12:41:22,eb22595030,80.2,128.5,"Date : 13/06/2021
+Problem : Tool Eye want to calibrate and steady rest alignment want to check.
+Cause : 
+Corrective Action : allignment completted and h/o
+Spare Parts Replaced : 
+Done By : Samapth/Parthi/Ravi"
+82216,Problem Not Listed,Grease pump at behind door interlock switch faulty....,e75a01c43e,No,Yes,2021-06-20 22:25:20,2021-06-20 22:38:31,eb22595030,0.2,0.2,"Date :20/06/2021
+Problem : Grease pump at behind door interlock switch faulty.
+Cause : Faulty
+Corrective Action :Replaced done and testing ok
+Spare Parts Replaced : D15IA002620 PUSH BUTTON qty 1no
+Done By : Parthiban/Liang"
+82637,Steady rest issues,Screw cover steady rest missing..,ca0afa3cc0,Yes,Yes,2021-07-21 15:03:47,2021-07-21 15:45:45,02c8833e6d,0.7,0.7,"Date:21/7/21
+Problem :screw damaged
+Cause : 
+Corrective Action : removed damaged screw and replace with new screw and tested
+Spare Parts Replaced : 2 pce screws
+Done By : Kumar"
+82677,Door Issue,Sensor problem..,409411a906,Yes,Yes,2021-07-23 13:28:04,2021-07-23 17:03:30,8ba0076dee,3.6,3.6,Multiple ticket. Follow Ticket#82678
+82678,Door Issue,Door sensor poroblem../,409411a906,Yes,Yes,2021-07-23 13:29:17,2021-07-23 17:27:54,a0c4f3f697,4,4,"Date : 23/7/2021 1:29 PM
+Problem:Door sensor poroblem.
+Cause : 
+Corrective Action :CHANGED NEW KEY
+Spare Parts Replaced :
+Done By :AIBIN /HAILIANG/JAYA
+"
+82743,Door Issue,Interlock no fuction..,409411a906,Yes,Yes,2021-07-29 08:39:24,2021-07-29 18:14:53,02c8833e6d,9.6,9.6,"Date : 29/7/21
+Problem: Door Interlock no fuction..
+Cause : Interlock pin broken
+Corrective Action :Replaced interlock
+Spare Parts Replaced :Interlock pin
+Done By :Hailiang/Kumar"
+82947,Door Issue,Interlock problem..,409411a906,Yes,Yes,2021-08-12 17:51:38,2021-08-12 18:46:54,8fbfb9c567,0.9,0.9,"Date : 12/8/2021
+Problem:Interlock problem..
+Cause : 
+Corrective Action :Replaced key and h/o
+Spare Parts Replaced :
+Done By : Ravi/Liang"
+84350,Door Issue,Door  not close .,bec4822ba4,No,Yes,2021-09-15 00:30:50,2021-09-15 09:39:47,a0c4f3f697,2.2,9.2,"Date :15/9/21
+Problem : Door  not close .
+Cause :
+Corrective Action :repair ready
+Spare Parts Replaced :
+Done By :aibin /ravi
+"
+84488,Conveyor Problem,Chip stuck at the coveyor.,4b378e8355,No,Yes,2021-09-28 15:32:35,2021-09-28 18:03:27,8ba0076dee,2.5,2.5,"Date :28/9/21
+Problem : Chip stuck at the coveyor. 
+Cause : 
+Corrective Action : clear the chip in conveyor n H/O.
+Spare Parts Replaced :
+Done By : Liang /Ravi"
+85631,Tailstock Issue,TAIL STOCK CONDITION ALARM,4b378e8355,Yes,Yes,2021-10-11 11:13:37,2021-10-11 14:19:53,8fbfb9c567,3.1,3.1,"Date:11/10/2021 
+Problem: TAIL STOCK CONDITION ALARM
+Cause: Some time Happened but they using MDI command M232 
+Action taken: Reset then OK
+Spare Parts Replaced:
+Done by:RAVI"
+85882,DNC Problem,Message on the monitor:  M740EiaPRO MFC has stopped working,4b378e8355,No,Yes,2021-11-01 10:09:31,2021-11-01 11:42:01,eb22595030,1.6,1.6,"Date : 1/11/21
+Probrom:Message on the monitor:  M740EiaPRO MFC has stopped working
+Cause : -
+Corrective Action : Machine restart ok
+Spare Parts Replaced :-
+Done By :Parthiban"
+85903,Mistcollector -Alarm,Mist collector has abnormal sound.,4b378e8355,No,Yes,2021-11-02 08:46:16,2021-11-02 10:59:39,a0c4f3f697,2.2,2.2,"Date : 2/11/2021
+Problem:Mist collector has abnormal sound.
+Cause : DRUM BRORKEN
+Corrective Action : REPLACED NEW DRUM TEST N H/O.
+Spare Parts Replaced : FX 7000 DRUM
+Done By :AIBIN/JAYA"
+85964,Tailstock Issue,Steady rest cable cover need to repair and Tail stock need to align.,4b378e8355,No,Yes,2021-11-08 10:18:11,2021-11-08 11:06:30,eb22595030,0.8,0.8,"Date :08/11/2021
+Problem : Steady rest cable cover need to repair and Tail stock need to align.
+Cause :-
+Corrective Action : Machine busy and release the machine later ( As per production PTL)
+Spare Parts Replaced :-
+Done By :Parthiban
+"
+85995,Tailstock Issue,Steady rest cables cover misaligned and Tail stock need to be align.,4b378e8355,No,No,2021-11-10 12:45:51,2021-11-10 18:26:12,02c8833e6d,0,5.7,"Date :10/11/2021
+
+Problem : Steady rest cables cover damaged and Tail stock need to be align.
+
+Cause : Steady rest coble bear broken so replaced 
+ 
+Corrective Action : Tail stock need adjusted due to taper,  now  taper 0.00( We test cut Tail pressure 2KN,3KN, AND 4KN)
+
+Spare Parts Replaced : Steady rest coble bear replaced 
+Done By : RAVI ,KUMAR AND AINBIN
+M/C H/O Ready.
+
+Production support:
+Dharani support to test cut and confirm dimensions
+Machine hand over to production and presence of Team Lead LV"
+86145,Door Issue,Grease top up interlock door has loosen.,4b378e8355,No,Yes,2021-11-19 13:37:36,2021-11-19 18:07:20,eb22595030,4.5,4.5,"Date : 19/11/21
+Problem: Grease top up interlock door has loosen
+Cause : 
+Corrective Action : CORRETED
+Spare Parts Replaced :
+Done By : PARTHI/AI BIN"
+86199,Air Supply Issue,Air gauge pressure LOW,75866ab32c,No,Yes,2021-11-24 09:58:14,2021-11-24 16:27:01,eb22595030,6.5,6.5,"Date : 24/11/2021
+Problem:Air gauge pressure LOW
+Cause : -
+Corrective Action :Adjusted requlator
+Spare Parts Replaced :-
+Done By :Jaya/Parthiba"
+86227,Coolant issues,COOLANT PIPE PROBLEM,75866ab32c,Yes,Yes,2021-11-26 09:00:35,2021-11-26 16:19:28,8ba0076dee,7.3,7.3,"Date : 26/11/2021
+Problem: COOLANT PIPE PROBLEM
+Cause : : COOLANT PIPE PROBLEM SCREW
+Corrective Action :  Tactile screw
+Spare Parts Replaced :
+Done By : sampath/liang
+"
+86541,Mistcollector -Alarm,MIST COLLECTOR HOSE BROKEN NEED DO CHANGE,183ca2261a,Yes,Yes,2021-12-20 14:00:01,2021-12-20 17:18:05,eb22595030,3.3,3.3,"Date : 20/12/2021
+Problem:MIST COLLECTOR HOSE BROKEN NEED DO CHANGE
+Cause : -
+Corrective Action :Hose replaced done
+Spare Parts Replaced :Hose
+Done By :Parthiban"
+86896,Alarm Machine Down,Shifter controller malfunction alarm.,4b378e8355,Yes,Yes,2022-01-21 06:11:32,2022-01-21 18:18:09,eb22595030,10.8,12.1,"Date : 21/1/22
+Problem:Shifter controller malfunction alarm.
+Cause :  Shifter jam due to tool pullstud did not tight properly.
+Corrective Action ; 
+> Removed the tool by manual force.
+> Alignment the shiffter by Jig and fixture
+Testing ok 
+Spare Parts Replaced :-
+Done By :Parthiban/Sampath/Hailiang/Headman"
+86931,Alarm Machine Down,(354)ATC ARM POSITION,75866ab32c,No,Yes,2022-01-23 18:41:35,2022-01-24 15:57:12,3de2e22f41,9.3,21.3,"Date : 24/1/22
+Problem:(354)ATC ARM POSITION
+Corrective Action ; TPL Corrected the issue  in night shift
+Spare Parts Replaced : Nil
+Done By : sampath"
+86997,Problem Not Listed,Right side door glass broken....,e75a01c43e,Yes,Yes,2022-01-27 10:01:05,2022-01-27 18:24:18,02c8833e6d,8.4,8.4,"Date:27/1/2022 
+Problem: Right side door glass broken
+Cause: 
+Action taken: Replaced and tested
+Spare Parts Replaced: 1unit class panel replaced
+Done by: Kumar/Parthiban"
+87105,Problem Not Listed,Pls help to remove the LBB from the machine...,e75a01c43e,Yes,Yes,2022-02-07 12:33:23,2022-02-07 13:28:45,eb22595030,0.9,0.9,"Date:07/02/2022
+Problem: Pls help to remove the LBB from the machine...
+Cause: -
+Action taken: Removed by operator
+Spare Parts Replaced:-
+Done by:Parthiban"
+87634,Steady rest issues,Steady rest need aligment.Because Vibration when using steady rest.,75866ab32c,No,Yes,2022-03-23 10:16:41,2022-03-23 14:18:44,49b43321e6,4,4,"Date:23/3/22
+Problem: Steady rest need aligment.Because Vibration when using steady rest.
+Cause: 
+Action taken: 
+Asper request to check stready rest accuracy 
+found x and y 0.001"" out by both axis
+Corrected and handed ove rot production
+Spare Parts Replaced:No
+Done by:Jaya/Kumar"
+87649,Control Problem,The job has the line mark on OD & ID.And the insert are easier to broken.,75866ab32c,No,Yes,2022-03-24 14:33:35,2022-03-24 15:40:07,49b43321e6,1.1,1.1,no machine issue
+87684,Control Problem,The job has the line mark.,75866ab32c,No,Yes,2022-03-28 09:34:58,2022-03-30 17:58:07,8fbfb9c567,40.5,56.4,"Date :  28/03/2022
+Problem : The job has the line mark.
+Cause :
+Corrective Action :
+Spare Parts Replaced :
+Done By : Ravi,  Kumar & Sampath
+
+28-03-2022  
+ We start accuracy test then M16, tool eye adjusted under by Test cut ,Tailstock  checking ,Finally steady rest Adjusted. 
+29-03-2022
+ Finally when OD  turning On clamp with steady rest little bit line formed but finishing ok  
+So We replace steady rest  from take outside container.  fixed ready Tomorrow Start  steady rest test cut.
+30-03-2022
+We starts test cut steady alignment done. then maching with steady line mark came in T0404 DNMG walter inser 0.8 radius used 
+After I used T0202 WNMG, T0505 DNMG FINISH,T0606 VNMG  not come lin mark and  finishing also good.  
+Again i called tool no T0404 I changed sandvik insert to cut material no mark finishing 
+So I show Team lead  Elvin who accept that then H/O Production
+Production job also monitor no issue.... Done by Ravi and Kumar
+
+Steady replace time Helped by  LIang and edmon"
+87768,Lubrication System,"Alarm: 209 slideway oil malfunction (WV-AX GREASE PUMP M359).
+Consumption lubrication is high. prolong for 1 day only.",4b378e8355,Yes,Yes,2022-04-01 20:58:18,2022-04-04 11:54:13,02c8833e6d,41.4,62.9,"Date :2/4/22
+Problem : 
+Alarm: 209 slideway oil malfunction (WV-AX GREASE PUMP M359).
+Consumption lubrication is high. prolong for 1 day only.
+Cause : 
+Corrective Action :
+ Advised order parts for SLU-5.1-MS
+Once parts receive and replace them
+install back old original stready rest
+Spare Parts Replaced :
+Done By :Kumar
+
+"
+87779,Lubrication System,209 SLIDE WAY OIL MALFUNCTION,4b378e8355,No,Yes,2022-04-03 19:31:29,2022-04-04 13:04:38,49b43321e6,8.5,17.6,multiple ticket
+87784,Control Problem,The steady rest cannot be fully opened.,75866ab32c,No,Yes,2022-04-04 08:51:07,2022-04-04 13:01:38,49b43321e6,4.2,4.2,"Date : 4/4/2022
+Problem : The steady rest cannot be fully opened.
+Cause :
+Corrective Action : corrected
+Spare Parts Replaced :
+Done By : jaya/parthi
+
+"
+87834,Control Problem,Steady Rest cannot fully opened.And very slow when opening.,75866ab32c,No,Yes,2022-04-07 10:26:02,2022-04-07 16:53:32,a0c4f3f697,6.5,6.5,"Date :4/7/2022 10:26 AM
+Problem : Steady Rest cannot fully opened.And very slow when opening.
+Cause :
+Corrective Action :repair ready
+Spare Parts Replaced :
+Done By :jaya/aibin
+"
+87917,Problem Not Listed,Alarm:-  35 OVERLOAD.,4b378e8355,No,Yes,2022-04-15 03:50:37,2022-04-17 10:00:07,49b43321e6,32.5,54.2,"Date :15/4/22
+Problem : Alarm:-  35 OVERLOAD.
+Cause : B Axis misalign
+Corrective Action : 15/04/2022 B Axis adjust from X -Z parallellism  0.009"" to 0.0001"" . 
+16/04/2022 Test cut result
+OD = + 0.001""
+ID  = -0.001""
+Length=+0.0006"" H/O
+Spare Parts Replaced :
+Done By : Jaya/ Ravi/Ai Bin/Parthi
+"
+88014,Door Issue,Leaking coolant through the gap of the door,75866ab32c,No,Yes,2022-04-22 08:47:39,2022-04-22 10:33:56,eb22595030,1.8,1.8,"Date :22/04/2022
+Problem : Leaking coolant through the gap of the door
+Cause : Highpressure coolant direct hit at doors joining area
+Corrective Action :Placed seal at door joint area and testing ok
+Spare Parts Replaced :-
+Done By : Parthiban"
+88180,Digital Readout Problem,PGM auto delete,75866ab32c,No,Yes,2022-05-06 09:17:58,2022-05-06 09:48:26,0e5b8fb3a2,0.5,0.5,"Date : 6/5/2022
+Problem :  PGM auto delete
+Cause :
+Corrective Action :Program monitor abnormal.Restart the machine and test ok..
+Spare Parts Replaced :
+Done By :Sampath/Edmond"
+88254,Problem Not Listed,OIL SKIMMER IS NOT FUNCTIONING,4b378e8355,No,Yes,2022-05-11 08:33:19,2022-05-11 09:57:17,a0c4f3f697,1.4,1.4,"Date : 5/11/2022 8:33 AM
+Problem : OIL SKIMMER IS NOT FUNCTIONING
+Cause :
+Corrective Action :REPAIR READY
+Spare Parts Replaced :
+Done By :AIBIN"
+88263,Problem Not Listed,"while using tail stock taper issue  found 0.004""  from 1"" to 20"" Length, 21"" to 38"" no taper.",a96fb8ce35,No,Yes,2022-05-11 22:35:13,2022-05-12 18:33:39,49b43321e6,16.5,20,"Date : 12/5/2022
+Problem :while using tail stock taper issue  found 0.004""  from 1"" to 20"" Length, 21"" to 38"" no taper.  .
+Cause :
+Corrective Action : Test cut did with 70"" long job found the taper  by 0.001"" H/O,
+Spare Parts Replaced :
+Done By : Jaya/Edmond"
+88357,Steady rest issues,steady rest top cover's adjustable screws don't have locknet for adjust. Cause the cover rubbing on the part surface.,4b378e8355,No,Yes,2022-05-20 12:43:07,2022-05-20 14:07:39,49b43321e6,1.4,1.4,"Date :20/5/22
+Problem : steady rest top cover's adjustable screws don't have locknet for adjust. Cause the cover rubbing on the part surface.
+Cause : 
+Corrective Action : Replaced  2 set screw and spring with washer test and H/o.
+Spare Parts Replaced :
+Done By:Jaya"
+88652,Door Issue,One door interlock problem. difficult to open.,4b378e8355,No,Yes,2022-06-13 23:55:00,2022-06-14 08:29:18,8fbfb9c567,5.1,8.6,"Date : 13/6/2022
+Problem : One door interlock problem. difficult to open.
+Cause :Right side door could nt open door 
+Corrective Action :.Interlock pin struck it, correct it checked ok 
+Spare Parts Replaced :
+Done By Ravi and Karthick"
+88761,Chiller Unit Malfunction,"chiller temperature showed 32 degree, normal machine is 25 degree.",75866ab32c,No,Yes,2022-06-22 14:40:47,2022-06-25 10:13:16,eb22595030,46.1,67.6,"Date :6/22/2022 2:40 PM
+Problem :  chiller temperature showed 32 degree, normal machine is 25 degree.
+Cause : 
+Corrective Action :clean up filter ready ,
+23/06/2022  Top up Gas and Monitor
+24/06/200 Replaced  serviced chiller unit e8 alarm.
+25/06/2022alarm e8  issue corrected  by vendor  H/O
+Spare Parts Replaced : 
+Done By : Jaya/parthi/pravind"
+88796,Chiller Unit Malfunction,"There is still a chiller unit malfuntion 
+pls come to repair for GC035301 machine 
+Thank you for your help",08a3a1cd96,Yes,Yes,2022-06-25 10:28:14,2022-06-27 08:41:42,49b43321e6,30,46.2,"Date : 25/06/2022
+Problem : Alarm 301 chiller unit malfunction 
+Cause : 
+Corrective Action : 26/06/2022 replace chiller unit
+27/06/2022 found the C axis cooling oil low top up and alarm clear H/O.
+Spare Parts Replaced :
+Done By :Parthi/Ai bin/Jaya
+
+"
+88814,Alarm Machine Down,#301 Alarm come again!,75866ab32c,No,Yes,2022-06-27 12:34:06,2022-06-28 18:43:20,eb22595030,26.2,30.2,"Date : 27/06/2022
+Problem : 301 chiller unit malfunction
+Cause : head stock oil hose broken 
+Corrective Action : 27/06/2022 remove the necessary covers  found hose worn out replaced the hose.
+ 28/06/2022
+Ffixed the covers, corrected hydraulic  pressure alarm test and H/O. 
+Spare Parts Replaced :
+Done By : Jaya/Parthi/Karthi
+
+"
+88851,Door Issue,m/C left door cannot open,75866ab32c,No,Yes,2022-06-29 09:07:57,2022-06-29 10:02:20,49b43321e6,0.9,0.9,"Date : 29/06/2022
+Problem : m/C left door cannot open
+Cause :
+Corrective Action : corrected the door interlock stopper H/o.
+Spare Parts Replaced :
+Done By : Liang
+
+"
+89349,Alarms Machine not Down,1210  LINE FILTER MALFUNCTION,75866ab32c,No,No,2022-08-07 13:48:07,2022-08-07 14:25:36,eb22595030,0,0.6,"Date:07/08/2022
+Problem: 1210  LINE FILTER MALFUNCTION
+Cause: -
+Action taken: Fiter cleaned and put back 
+Spare Parts Replaced:-
+Done by:Parthiban"
+89504,Spindle issue,44 Spinder mulfunction,75866ab32c,No,Yes,2022-08-18 08:02:37,2022-08-18 08:38:47,eb22595030,0.6,0.6,"Date : 18/8/2022
+Problem:spindle malfunction alarm
+Cause : -
+Corrective Action :Reset the machine and H/O
+Spare Parts Replaced :-
+Done By :Parthiban
+
+"
+89536,Machine Incident,"35 Overload 
+",d3d67f71a3,Yes,No,2022-08-19 16:40:58,2022-08-22 12:15:55,49b43321e6,0,67.6,"Date :20/08/2022
+Problem :35 Overload  Machine Crash 
+Cause :Human mistake  Steady Rest damaged and Y axis cover Damaged 
+Corrective Action : 20/8/22   Y axis cover Replaced and   
+
+Spare Parts Replaced : Steady Rest  =1 no
+                                     Y axis bottom cover =1no
+
+Done By :Ravi and Jaya
+
+Tool Eye out OD +0.005"", Length-0.003""
+
+M16 X axis 0.006.Y0.0005
+
+Result 
+
+M16 X axis 0.0001,Y axis 0.0003
+
+Tool eye OD 0.0003"", Length 0.0005"" ,   ID 0.0002""
+
+Steady Rest 
+X axis 0.001"" And Yaxis 0.0005""
+
+Tailstock Taper 0.0001""
+Hand over Production Team Leader.
+"
+89643,Hydraulic Pressure Issue,200 HYDRAULIC UNIT PRESSURE DOWN,75866ab32c,No,No,2022-08-26 12:47:17,2022-08-26 14:15:43,90a39d38ed,0,1.5,"Date : 26/08/2022
+Problem : 200 HYDRAULIC UNIT PRESSURE DOWN
+Cause : filter choked
+Corrective Action :Replaced 2 nos of hydraulic filter.
+Spare Parts Replaced :2 nos of element filter
+Done By :Pravind/Jaya/Karthik"
+89742,Steady rest issues,need to do steady rest alignment..wear offset is variying too much...,e75a01c43e,Yes,Yes,2022-09-05 01:49:46,2022-09-08 11:49:19,02c8833e6d,49.3,82,"Date : 4/09/2022
+Problem : need to do steady rest alignment..wear offset is variying too much... 
+Cause : 0.004"" steady res cylindert down by itself
+Corrective Action :  
+Replaced steady rest and solenoid valve for steadrest
+
+7/9/2022 REPLACE CHILLER UNIT AND MONITOR 1 HR NOT FOUND ANY VARIATION IN X DIRECTION.  
+H/O by JAYA (  8/9/2022  0500 am )
+
+Spare Parts Replaced :
+Done By :Kumar/Ravi/Karthik/Jaya/Liang
+"
+89839,Hydraulic Pressure Issue,200 Hydraulic oil pressure down...,e75a01c43e,Yes,Yes,2022-09-09 19:39:18,2022-09-10 03:38:39,49b43321e6,8,8,"Date : 09/09/2022
+Problem : 200 Hydraulic oil pressure down...
+Cause :
+Corrective Action : clean the stainers and replce the hydraulicoil, filer replaced 2 nos. test chuck open close few times found no alarm H/O
+Spare Parts Replaced :
+Done By : jaya
+"
+89850,Hydraulic Pressure Issue,"200 Hydraulic pressure down
+Bore taper by +0.007"" for the length of 16.5""..",e75a01c43e,Yes,Yes,2022-09-11 10:41:36,2022-09-11 16:18:25,02c8833e6d,5.6,5.6,"Date : 11/9/22
+Problem:
+200 Hydraulic pressure down
+Bore taper by +0.007"" for the length of 16.5""..
+Cause : 
+Corrective Action : PCB replaced and tested with job test within spec
+Spare Parts Replaced : 1unot of PCB
+Done By : Kumar/Ravi/Aibin
+"
+89871,Coolant issues,372 high press .cool system alarm ( so coolant very full),4edf9b033e,No,Yes,2022-09-13 14:52:31,2022-09-13 16:07:22,a0c4f3f697,1.3,1.3,"Date :13/9/2022 ?? 2:52
+Problem : 372 high press .cool system alarm ( so coolant very full)
+Cause :
+Corrective Action :changed new filter ready
+Spare Parts Replaced :
+Done By :aibin/pravind
+"
+89926,Steady rest issues,The steady rest cover plate cannot fit close to the workpiece and needs to be replaced.,75866ab32c,No,Yes,2022-09-16 20:04:03,2022-09-16 21:03:07,49b43321e6,1,1,"machinist cannot realese the machine to repair,
+
+by jayaprakasam"
+90015,Problem Not Listed,Cable barrier broken,e75a01c43e,Yes,No,2022-09-22 12:40:21,2022-09-22 13:26:09,8fbfb9c567,0,0.8,"Date:22-09-22 
+Problem: Cable barrier broken
+Cause: 
+Action taken: Dameged cable bear Replaced.
+Spare Parts Replaced: cable bear - 1/2 (11pcs)
+Done by:Ravi / Karthik"
+90261,Lubrication System,"behind the machine , there is air in filler pipe.  p/s  repair.",4edf9b033e,No,Yes,2022-10-13 20:18:41,2022-10-14 01:41:32,eb22595030,5.4,5.4,"Date : 14/10/2022
+Problem:behind the machine , there is air in filler pipe.  p/s  repair. ( Greasing pump)
+Cause :- 
+Corrective Action :Topup grease 
+Spare Parts Replaced :-
+Done By :Parthiban/Karthik"
+90446,Chiller Unit Malfunction,301 Chiller unit malfunction,75866ab32c,No,Yes,2022-10-27 15:27:17,2022-10-28 12:20:48,49b43321e6,17.4,20.9,"Date : 27/10/2022
+Problem : 301 Chiller unit malfunction
+Cause :
+Corrective Action : vendor replaced the overload relay and capacitor. test and run H/o.
+Spare Parts Replaced :
+Done By : Ai bin
+"
+90649,Alarm Machine Down,44spindle malfunction,75866ab32c,No,No,2022-11-10 11:57:03,2022-11-10 14:01:44,49b43321e6,0,2.1,"Date : 10/11/2022
+Problem : 44spindle malfunction
+Cause : c axis cooling fan fault
+Corrective Action : Replace new fan 
+Spare Parts Replaced :
+Done By : Jaya/Ai bin
+
+"
+90653,Steady rest issues,steady rest cover need to change. job scratches by steady rest cover,f29445a033,No,Yes,2022-11-10 18:03:25,2022-11-10 18:32:14,49b43321e6,0.5,0.5,wrong work center
+90753,Problem Not Listed,We going to run new product(gundrill operation)So Need to conform machinne accuracy,fe8ef2e6b6,No,Yes,2022-11-18 08:26:56,2022-11-18 10:08:48,8fbfb9c567,1.7,1.7,"Date : 18/11/2022
+Problem :  We going to run new product(gundrill operation)So Need to conform machinne accuracy 
+Cause :  verify to part GC part running
+Corrective Action : Checked ok 
+Spare Parts Replaced : 
+Done By : V.Ravi"
+90941,Control Problem,262 gear sensor(high speed) malf.,75866ab32c,No,Yes,2022-12-01 08:48:07,2022-12-01 11:54:03,49b43321e6,3.1,3.1,"Date: 01/12/2022
+Problem: 262 gear sensor(high speed) malf.
+Cause: 
+Corrective Action: reset and monitor.
+Spare Parts Replaced:
+Done By: Jaya/Kumar
+
+"
+91103,Steady rest issues,CHANGE SEADY REST BEARING COVER,75866ab32c,No,Yes,2022-12-12 23:28:31,2022-12-13 01:48:47,02c8833e6d,2.3,2.3,"Date: 12/12/2022
+Problem:CHANGE STEADY REST BEARING COVER
+Cause: 
+Wornout
+Action Taken: Replaced cover and bearings 
+Spare Parts Replaced: Cover 2units and 3 bearings
+Done by: Ravi/Kumar"
+91220,Control Problem,262 GEAR SENSOR (HIGH SPEED)MALF.,75866ab32c,No,No,2022-12-21 05:42:17,2022-12-21 06:00:14,02c8833e6d,0,0.3,"Date: 21/12/2022
+Problem:262 GEAR SENSOR (HIGH SPEED)MALF.
+Cause:  MANUALLY ROTATE CHUCK BY SPEED
+Action Taken:  RESET ALARM  THEN OK 
+Spare Parts Replaced: 
+Done by: RAVI AND KUMAR"
+91292,Coolant issues,"coolant oil was came outside from the coolant tank.
+because of coolant foam forming so need to control foam",5e04a7efb2,No,Yes,2022-12-27 08:10:58,2022-12-27 13:01:53,49b43321e6,4.9,4.9,"Date : 27/12/2022 
+Problem :coolant oil was came outside from the coolant tank.
+because of coolant foam forming so need to control foam
+Cause : coolant concentration 14%
+Corrective Action : coolant concentration reduce to 10% .
+Spare Parts Replaced :-
+Done By : Jaya"
+91323,Coolant issues,coolant oil concentration(ph 14) too high need to clean the oil,5e04a7efb2,No,Yes,2022-12-29 14:09:48,2022-12-29 15:01:06,a368db371f,0.9,0.9,"Date : 29/12/2022
+Problem :  coolant oil concentration(ph 14) too high need to clean the oil 
+Cause :
+Corrective Action : VACCUM THE OIL AND REFILL THE WATER 
+Spare Parts Replaced :No
+Done By : Sampath / Karthik"
+91411,Door Issue,door cannot close,75866ab32c,No,Yes,2023-01-05 17:20:14,2023-01-05 18:37:10,8ba0076dee,1.3,1.3,"Date: 05/01/2023
+Problem: door cannot close
+Cause:break down
+Corrective Action:chang new one
+Spare Parts Replaced: 1 pc
+Done By: liang/ravi
+
+"
+91629,Control Problem,STREAD REST CANNOT MOVE,75866ab32c,No,Yes,2023-01-22 08:24:59,2023-01-22 12:19:24,8ba0076dee,3.9,3.9,"Date:22/1/2023 8:24 AM
+Problem: STREAD REST CANNOT MOVE
+Cause: work rest belt broken 
+Corrective Action: belt replaced and home set done tested found good and handed over to production
+Spare Parts Replaced: Timing- belt 1040UP8M25 (L08TR007690) 1 Piece
+Done By: sampath / hai liang 
+"
+91830,Control Problem,291 NO TOOL UNLOAD(TOOL IN MAG.),75866ab32c,No,Yes,2023-02-03 14:54:54,2023-02-03 17:28:05,49b43321e6,2.6,2.6,"Date:03/02/2023
+Problem: 291 NO TOOL UNLOAD(TOOL IN MAG.)
+Cause: found 2 nos of same tool 
+Corrective Action: remove one tool and test H/o.
+Spare Parts Replaced:
+Done By:Jaya/Pravind
+"
+93359,Tailstock Issue,The seal is broken,75866ab32c,No,Yes,2023-03-09 02:23:04,2023-03-09 04:04:01,a368db371f,0,1.7,"Date : 9/3/2023 
+Problem : The seal is broken .
+Cause : Tailstock revolving centre seal  is broken.
+Corrective Action : Replaced new seal.
+Spare Parts Replaced : Revolving centre seal Id 802 _ 1pc.
+Done By : Ravi / Karthik."
+93363,Switch Problem,tool clamp unclamp switch loosen cannot open close,605c75f5b6,No,Yes,2023-03-09 08:47:26,2023-03-09 10:19:11,49b43321e6,1.5,1.5,"Date : 8/3/2023 
+Problem :  tool clamp unclamp switch loosen cannot open close 
+Cause :wear and tear 
+Corrective Action : replaced new switch test H/o.
+Spare Parts Replaced :
+Done By : Jaya"
+93414,Coolant issues,1210 LINE FILTER MFC,75866ab32c,No,No,2023-03-11 23:00:34,2023-03-12 00:09:36,a368db371f,0,1.2,"Date : 11/3/2023 
+Problem : 1210 LINE FILTER MFC
+Cause : Filter dirty.
+Corrective Action : cleaned the filter.
+Spare Parts Replaced :
+Done By : Parthiban / Karthik"
+93530,Steady rest issues,finishing not achieved when using steady rest.,14c656a423,No,Yes,2023-03-19 12:35:49,2023-03-21 08:20:48,3de2e22f41,30.8,43.8,"Date :20/3/23 
+Problem:finishing not achieved when using steady rest.   
+Cause : work rest base alignment out by 0.020""
+Corrective Action : aligenment work carried out and replaced serviced work rest test cut taken found good machine handed over to production.
+Spare Parts Replaced : serviced work work rest SLU4.1
+Done By : Sampath / Hai liang/david
+"
+93810,Coolant issues,"Flood coolant ball was fall down need to install coolant ball,",75866ab32c,No,Yes,2023-04-06 01:31:57,2023-04-06 05:39:25,49b43321e6,0,4.1,"Date: 06.04.2023
+Problem: Flood coolant ball was fall down need to install coolant ball,
+Cause: 
+Corrective Action:  change new nozzle
+Spare Parts Replaced:
+Done By: Jaya / David"
+93844,Tool changer issues,Tool change time turret no move just stoped in side but no alarm,75866ab32c,No,Yes,2023-04-07 22:42:04,2023-04-08 00:26:38,49b43321e6,1.7,1.7,"Date : 07/04/2023
+Problem :   Tool change time turret no move just stoped in side but no alarm   
+Cause :
+Corrective Action :ATC recovery by manually test and H/o.
+Spare Parts Replaced :
+Done By : Jaya/David
+"
+93916,Problem Not Listed,come come   to  now,4edf9b033e,No,Yes,2023-04-13 12:42:42,2023-04-13 13:29:01,90a39d38ed,0.8,0.8,"Date : 13/4/2023
+Problem : Protection plate for rapid axis movement
+Cause : Double side tape worn out
+Corrective Action :  
+Spare Parts Replaced :
+Done By : Pravind
+"
+93972,Emergency Stop Will Not Reset,HAI  LIANG COME NOW  THANKS,4edf9b033e,No,Yes,2023-04-18 08:34:47,2023-04-18 11:23:44,90a39d38ed,2.8,2.8,REPEAT TICKET REF TICKET ID 93975
+93975,Emergency Stop Will Not Reset,X Y Z    ( THE COVER COMES OFF),4edf9b033e,No,Yes,2023-04-18 09:15:22,2023-04-18 11:25:50,90a39d38ed,2.2,2.2,"Date : 07/04/2023
+Problem :   X Y Z  PROTECTION COVER COMES OFF FROM NC
+Cause :
+Corrective Action : REPLACE DOUBLE SIDED TAPE 
+Spare Parts Replaced :
+DONE: PRAVIND"
+94022,Door Issue,m/c DOOR CANNOT CLOSE,75866ab32c,No,Yes,2023-04-21 02:00:18,2023-04-21 04:35:45,49b43321e6,0,2.6,"Date : 21/04/2023
+Problem ; DOOR CANNOT CLOSE
+Cause :  bracket is broken
+Corrective Action : replaced new bracket with door interlock key. H/o.
+Spare Parts Replaced :
+Done By : Jaya/David
+"
+94059,Door Issue,M/C door cannot close,75866ab32c,No,Yes,2023-04-24 22:05:01,2023-04-25 00:32:50,49b43321e6,2.5,2.5,"Date : 24/04/2023
+Problem ; M/C door cannot close
+Cause : door interlock worn out
+Corrective Action : replaced new switch and key test h/o,.
+Spare Parts Replaced :
+Done By : Jaya/David"
+94128,Alarm - Maintenance PM,The machine is not working properly .,bec4822ba4,No,Yes,2023-04-30 12:30:50,2023-04-30 12:55:08,49b43321e6,0.4,0.4,"Date : 30/04/2023
+Problem ;  The machine is not working properly .
+Cause :
+Corrective Action :  corrected the issue , (tail pos error).
+Spare Parts Replaced :
+Done By : Jaya"
+95180,Axis Is not align,turret 0 position and 90 position the z deviation 0.002,14c656a423,No,Yes,2023-05-04 12:33:19,2023-05-04 22:34:33,8fbfb9c567,10,10,"Date: 04/05/2023
+Problem:turret 0 position and 90 position the z deviation 0.002 
+Cause:
+Corrective Action:
+Spare Parts Replaced:
+Done By:Ravi and Karthik
+
+
+Spindle B0=0.0
+Spindle rotational 45 deg =  -18 micron 
+Spindle rotational 90 deg =  -37 micron 
+so we Adjuste pitch error 
+
+Spindle rotational 45 deg =  -3 micron 
+Spindle rotational 90 deg =  -3 micron 
+"
+96646,Chuck Issue,spindle have problem,605c75f5b6,No,Yes,2023-06-05 09:17:09,2023-06-05 18:31:22,49b43321e6,9.2,9.2,"Date : 5/6//2023
+Problem :   spindle have problem
+Cause : 
+Corrective Action : RESET AND MONITOR FOUND NO ISSUE 
+Spare Parts Replaced :
+Done By :  JAYA
+"
+96957,Alarm Machine Down,"2 EMERGENCY STOP                 (&0000FFAF,        ,           )",605c75f5b6,No,Yes,2023-06-20 10:23:22,2023-06-20 11:53:14,a0c4f3f697,1.5,1.5,"Date: 20/06/2023
+Problem: 2 EMERGENCY STOP                 (&0000FFAF,        ,
+Cause:
+Corrective Action: reset the tail condition alaarm
+Spare Parts Replaced:
+Done By: Ai bin
+
+"
+97029,Axis is Noisy,There is a slight vibration and noise when the spindle is locked,75866ab32c,No,Yes,2023-06-23 23:37:27,2023-06-24 00:26:45,eb22595030,0.8,0.8,"Date : 24/06/2023
+Problem:There is a slight vibration and noise when the spindle is locked
+Cause : -
+Corrective Action :Checked working normal
+Spare Parts Replaced :-
+Done By :Parthiban / Kumar"
+97056,Machine leaks,spindle seems to be leaking oil,605c75f5b6,No,Yes,2023-06-26 11:02:43,2023-06-26 12:00:15,eb22595030,1,1,"Date : 26/06/2023
+Problem :spindle seems to be leaking oil      
+Cause :-
+Corrective Action :No leaking
+Spare Parts Replaced :-
+Done By : Parthiban /David"
+97140,Alarm Machine Down,ALARM   MANY     TIMES A   DAY.    2 EMERGENCY STOP,4edf9b033e,No,No,2023-07-03 08:19:37,2023-07-03 10:16:46,49b43321e6,0,2,"Date:  03/07/2023
+Problem: ALARM   MANY     TIMES A   DAY.    2 EMERGENCY STOP 
+Cause: suspect job bent
+Corrective Action: Reset and monitor.
+Spare parts Replaced:
+Done By: Jaya/wang"
+97379,Move error,cover losse,4edf9b033e,No,Yes,2023-07-18 16:12:40,2023-07-18 18:22:46,a0c4f3f697,2.2,2.2,"Date : 18/7/2023
+Problem : cover losse    
+Cause :
+Corrective Action : Claered the chips and fixed back telecover
+Spare Parts Replaced :
+Done By :Aibin/Wang 
+"
+97456,Mistcollector -Alarm,more smoke coming out from mistcollector.It is more harm ful.,75866ab32c,Yes,Yes,2023-07-22 19:30:32,2023-07-23 01:17:50,02c8833e6d,5.8,5.8,"Date : 22/7/2023 7:30 PM
+Problem:more smoke coming out from mistcollector.It is more harm ful.
+Cause : 
+Corrective Action :
+Machine running now.
+We replaced filter and check but same again
+we will put back old filter and  the machine  handed over to production
+Spare Parts Replaced :No
+Done By :Kumar/Ravi"
+97583,Tailstock Issue,TAIL CONDITION ALARM AND EMERGENCY STOP,8bc911adfb,No,Yes,2023-07-31 17:29:15,2023-07-31 20:32:47,49b43321e6,3.1,3.1,"Date: 31/7/2023
+Problem: TAIL CONDITION ALARM AND EMERGENCY STOP
+Cause: Sensor faulty
+Corrective Action: Replaced sensor and testing ok
+Spare Parts Replaced:Tail sensor
+Done By:Jaya / Aibin / Hailiang / Parthiban
+"
+97701,Door Issue,door issue,4edf9b033e,No,Yes,2023-08-08 02:01:15,2023-08-08 09:14:33,49b43321e6,1.7,7.2,"Date : 08/08/2022
+Problem :  door issue
+Cause : wear and tear
+Corrective Action : replaced new switch test and h/o. 
+Spare Parts Replaced : card no 688
+Done By : Jaya 1.5 H, Wang( 1.5 hr)
+Supported by"
+97702,Door Issue,machine door interlock problem,14c656a423,No,Yes,2023-08-08 03:34:28,2023-08-08 08:47:44,49b43321e6,1.3,5.2,"Date : 
+Problem :  
+Cause :
+Corrective Action : 
+Spare Parts Replaced :
+Done By :
+Supported by 
+Duplicate ticket for 97701"
+97997,Control Problem,m/c cannot run,75866ab32c,No,Yes,2023-08-28 23:49:05,2023-08-29 03:02:58,8ba0076dee,3.2,3.2,"Date : 29/08/2023
+Problem: m/c cannot run
+Cause : B axis not moving for home
+Corrective Action : Suspect feed rate switch jam. press few times feed rate switch after working normal,
+Spare Parts Replaced :-
+Done By :Parthiban (1.5hrs) / Hailiang (1.5hrs)
+Supporting:-
+"
+98166,Coolant issues,1210 line filter malfunction,5e04a7efb2,No,Yes,2023-09-11 09:07:22,2023-09-11 10:01:01,1c8e2c2ba9,0.9,0.9,"Date : 11/09/2023
+Problem :  1210 line filter malfunction 
+Cause :The filter is clogged 
+Corrective Action:change new filter
+Spare Parts Replaced :
+Done By :  wang/hong 1 hour
+
+Supporting:"
+98305,Steady rest issues,NEED CAHNGE COVER,75866ab32c,No,No,2023-09-20 01:19:22,2023-09-20 13:54:17,a368db371f,0,12.6,"Date : 20/9/2023
+Problem :  Operator Mistake OD turning with Steady clamp 
+Cause : So Bottom bearing plate and screw fully damaged( MELTED)  and part also rubbing mark. Before we go part take out
+Corrective Action : Replaced new covers and bearings H/o.
+Spare Parts Replaced :
+Done By : Jaya 1 Hr  / Hai liang 1Hr 
+Supported By:
+
+
+waiting for investigation 
+No report incident."
+98973,Tool changer issues,magazine drum malfunction,cca197e97a,No,Yes,2023-10-31 20:43:01,2023-11-01 03:36:25,49b43321e6,6.9,6.9,"Date : 30/10/2023 
+Problem : magazine drum malfunction 
+Cause :
+Corrective Action: reset and ATC recovery by manually h/o.
+Spare Parts Replaced :
+Done By : Jaya
+Supporting:"
+99100,Steady rest issues,for od 63 finish not good,4edf9b033e,No,Yes,2023-11-08 14:09:15,2023-11-08 17:22:05,fdfecab027,3.2,3.2,"Date: 8/11/2023
+Problem: for od 63 finish not good 
+Cause: Study rest bearing wear and tear
+Corrective Action: Replace 3 new bearing
+Spare Parts Replaced:
+Done By: David ( 1H ) / Wang ( 1H )
+Support By:"
+99183,Problem Not Listed,start button  damaged   and  maunal wheel,4edf9b033e,No,Yes,2023-11-14 08:11:07,2023-11-14 11:28:39,1c8e2c2ba9,3.3,3.3,"Date: 14/11/2023
+Problem: start button  damaged   and  maunal wheel
+Cause: maunal wheel loose
+Corrective Action: change new start button  and  maunal wheel
+Spare Parts Replaced: 
+Done By:wang/aibin( 1.5 hour)
+Support by:
+"
+99214,Switch Problem,disassembly  tool  button,4edf9b033e,No,Yes,2023-11-16 14:40:06,2023-11-16 15:46:42,1c8e2c2ba9,1.1,1.1,"Date: 16/11/2023
+Problem:disassembly  tool  button 
+Cause: The switch lock is loose
+Corrective Action: The switch is locked
+Spare Parts Replaced:
+Done By:  wang /hoong/kumar 0.5 (hour)
+Supporting: kotian 
+"
+99358,Coolant issues,USE HIGH COOL  ( BELT  FANTASY),4edf9b033e,No,Yes,2023-11-27 08:53:20,2023-11-27 10:07:53,eb22595030,1.2,1.2,"Date : 27/11/2023
+Problem : High pressure coolant abnormal sound 
+Cause : Belt loosen
+Corrective Action : Adjusted belt tension and testing okay normal.
+Spare Parts Replaced :-
+Done By : Parthiban (1hr) /Kumar (1hr)
+Supporting:-
+
+"
+99829,Control Problem,1210 line filter mal,75866ab32c,No,Yes,2024-01-03 02:12:15,2024-01-03 09:24:16,1c8e2c2ba9,1.9,7.2,"Date : 03/01/2024
+Problem: 1210 line filter mal
+Cause :  filter plunger
+Corrective Action :  change filter 
+Spare Parts Replaced :
+Done By : wang 0.5 hour
+Supporting:
+
+duyplicate ticket for 99832"
+99832,Alarms Machine not Down,1210 line filter malfunction alarm,5e04a7efb2,No,Yes,2024-01-03 07:58:02,2024-01-03 09:26:12,1c8e2c2ba9,1.5,1.5,"Date : 03/01/2024
+Problem: 
+Cause :  
+Corrective Action :  
+Spare Parts Replaced :
+Done By :
+Supporting: 
+    
+
+Same ticket 99829"
+99951,Conveyor Problem,The  chip conveyor  is stuck,75866ab32c,No,Yes,2024-01-11 06:33:37,2024-01-11 09:21:42,1c8e2c2ba9,1.9,2.8,"Date: 11/1/2024
+Problem: The  chip conveyor  is stuck
+Cause: many chip can not come out
+Corrective Action: clear chip tested. H/o.
+Spare Parts Replaced:
+Done By:  wang 1 hour
+Support By:"
+100255,Skimmer Needed/Not Working,coolant oil very dirty,cca197e97a,No,Yes,2024-02-01 21:11:47,2024-02-02 01:54:03,a368db371f,4.7,4.7,"Date: 1/2/2024
+Problem: coolant oil very dirty
+Cause: skimmer belt was damaged. 
+Corrective Action: Replaced new belt.
+Spare Parts Replaced: 
+Done By: Karthik(1hrs)
+Support by:
+"
+100463,Control Problem,292 NO UNLOAD,75866ab32c,No,Yes,2024-02-17 11:53:14,2024-02-17 13:28:27,967727c350,1.6,1.6,"Date: 17/2/2024
+Problem: 292 NO UNLOAD
+Cause: 
+Corrective Action:Recovered ATC cycle and reset
+Spare Parts Replaced:
+Done By: Samapth(0.5hr)/Pravind(0.5hr)
+Support By:"
+100472,Control Problem,43 SPINDLE MALFUNCTION,75866ab32c,No,Yes,2024-02-18 16:08:27,2024-02-19 07:49:04,90a39d38ed,11.9,15.7,"Date: 18/2/2024 
+Problem: 43 SPINDLE MALFUNCTION
+Cause: Found MRJZ2 have EMG 0040 Emergency Stop alarm
+Corrective Action: power off and On alarm clear machine running. Monitor.
+Spare Parts Replaced: No
+Done By: Pravind/David
+Support by: 
+"
+100561,Move error,DAMAGED  PLASTIC  PROTECTIVE  COVER    AND  COOLANT  ISSUES,4edf9b033e,No,No,2024-02-23 06:19:50,2024-02-23 09:17:39,eb22595030,0,3,"Date:23/02/2024
+Problem: DAMAGED  PLASTIC  PROTECTIVE  COVER    AND  COOLANT  ISSUES 
+Cause:  Steady cable barrier damaged
+Corrective Action: Replaced new cable barrier 
+Spare Parts;
+Done By:Parthiban (2hrs) / Aibin (1hr)
+Supported By:-"
+100620,Door Issue,3 emergency stop,4edf9b033e,No,Yes,2024-02-27 21:52:21,2024-02-28 01:57:45,1c8e2c2ba9,4.1,4.1,"Date: 27/2/2024 	
+Problem:	3 emergency stop
+Cause: door IN lock boren	
+Corrective Action: 	replace inlock 
+Spare Parts Replaced:	
+Done By:	wang/kumar (1.5 hour)
+Supporting:	
+"
+100658,Alarm Machine Down,337 DRIVE MODE CHANGE INHIBIT,75866ab32c,Yes,Yes,2024-02-29 12:15:58,2024-02-29 12:33:35,eb22595030,0.3,0.3,"Date : 29/02/2024
+Problem : ATC alarm
+Cause : Tool changing half way stop.
+Corrective Action : Recovery done
+Spare Parts Replaced :-
+Done By : Parthiban / Karthik (0.5)
+Supporting:-"
+100874,Spindle issue,SPINDLE MALFUNCTION ALARM 51,4b2fa0a0fd,No,Yes,2024-03-14 18:21:32,2024-03-14 18:43:00,49b43321e6,0.4,0.4,"Date: 14/03/2024
+Problem: SPINDLE MALFUNCTION ALARM 51
+Cause: 43 spindle malfunction 51,  f6
+Corrective Action: reset and monitor
+Spare Parts Replaced: 
+Done By: Jaya/Sampath
+Support by:"
+100879,DNC Problem,Program not downloaded for machine,271856af31,No,Yes,2024-03-15 01:38:33,2024-03-15 02:47:31,1c8e2c2ba9,0,1.2,"Date: 	15/3/2024 ?? 1:38
+Problem:	Program not downloaded for machine
+Cause: 	
+Corrective Action: 	Shut down and restart the machine
+Spare Parts Replaced:	
+Done By:	 wang/kumar 0.5 hour
+Supporting:	
+	
+	
+"
+100901,Control Problem,406 MEMORY PROTECT,271856af31,No,Yes,2024-03-17 02:28:22,2024-03-17 07:45:43,49b43321e6,0.3,5.3,"Date: 17/03/2024
+Problem: 406 MEMORY PROTECT
+Cause:
+Corrective Action: rest and tested good.
+Spare Parts Replaced:
+Done By: Jaya/kotian
+"
+101090,Alarms Machine not Down,(MONITOR) DISPLAY HANGING,4b2fa0a0fd,No,Yes,2024-03-28 12:48:27,2024-03-28 16:30:16,eb22595030,3.7,3.7,"Date :28/03/2024 
+Problem : (MONITOR) DISPLAY HANGING       
+Cause :-
+Corrective Action :Restart okay
+Spare Parts Replaced :-
+Done By : Parthiban
+Supporting:
+"
+101264,Alarms Machine not Down,LINE FILTER MALFUNCTION ALARM CAME.,4b2fa0a0fd,No,Yes,2024-04-12 06:00:13,2024-04-12 06:17:02,a0c4f3f697,0,0.3,
+101268,Coolant issues,1210 Line filter malfunction alarm,5e04a7efb2,No,Yes,2024-04-12 08:06:00,2024-04-12 10:26:30,fdfecab027,2.3,2.3,"Date: 12/4/2024
+Problem: 1210 Line filter malfunction alarm
+Cause: Filter chock
+Corrective Action: Clear and test
+Spare Parts:
+Done By: David ( 0.5H )"
+101283,Coolant issues,HIGH PRESSURE COOLANT ALARM CAME,4b2fa0a0fd,No,Yes,2024-04-13 00:17:22,2024-04-13 03:37:56,90a39d38ed,0,3.3,"Date: 13/4/2024
+Problem: HIGH PRESSURE COOLANT ALARM CAME
+Cause: 
+Corrective Action: Changed filter
+Spare Parts Replaced: 
+Done By: Pravind/Aibin (1hr)
+Support by:"
+101286,Coolant issues,Coolant leaking chuck behind side.,5e04a7efb2,Yes,Yes,2024-04-13 07:43:25,2024-04-13 11:59:51,a368db371f,4.3,4.3,"Date: 13/4/2024 
+Problem: Coolant leaking chuck behind side.
+Cause: A damaged chuck push on the rear side.
+Corrective Action: Changed the broken chuck push on the back side.
+Spare Parts Replaced: No 
+Done By: Karthik (1hrs)
+Support by: Sampath (1hrs)
+"
+101573,Chiller Unit Malfunction,301 chiller unit malfunction,4b2fa0a0fd,No,Yes,2024-05-02 19:24:31,2024-05-03 01:20:33,fdfecab027,5.9,5.9,"Date: 2/5/2024
+Problem: 301 chiller unit malfunction
+Cause: Filter choke
+Corrective Action: Replace  new filter
+Spare Parts Replaced: G30ZZ00334C ( 827-A6 )
+Done By: David ( 1H ) / Liang ( 1h )
+Support By: 
+"
+101617,Control Problem,43 SPINDLE MALFUNCTION 2,75866ab32c,No,Yes,2024-05-06 13:35:47,2024-05-06 15:20:38,a0c4f3f697,1.8,1.8,"Date : 6/5/2024 ?? 1:35
+Problem : 43 SPINDLE MALFUNCTION 2
+Cause :
+Corrective Action :machine reatart ready ok.
+Spare Parts Replaced :   
+Done By :aibin 0.2 (h)
+Supporting:"
+102691,Machine Incident,machine door glass crack due to insert broken,14c656a423,No,Yes,2024-05-10 09:46:20,2024-05-10 14:46:36,49b43321e6,5,5,"Date: 10/5/2024
+Problem:machine door glass crack due to insert broken   
+Corrective Action: replaced new glass and h/o.
+Spare Parts Replaced: card no 851
+Done By: Jaya/wang
+Support By:"
+102808,Steady rest issues,Steady Rest V axis not move need to repair.,5e04a7efb2,No,No,2024-05-17 06:29:09,2024-05-17 12:28:53,8fbfb9c567,0,6,
+102883,Control Problem,43 SPINDLE MALFUNCTION 2,75866ab32c,No,Yes,2024-05-22 11:08:57,2024-05-22 14:08:23,a0c4f3f697,3,3,"	
+Date: 	22/05/2024
+Problem:43 SPINDLE MALFUNCTION 2
+Cause: 	
+Corrective Action: 	Reset and Off and  On  the machine , monitoring.
+Spare Parts Replaced:	
+Done By:	Jaya/Ai bin
+Supporting:	
+"
+102989,Chiller Unit Malfunction,301 chiller unit malfunction alarm,5e04a7efb2,No,Yes,2024-05-29 22:14:00,2024-05-29 23:41:34,fdfecab027,1.5,1.5,"Date: 29/5/2024
+Problem: 301 chiller unit malfunction alarm
+Cause: Filter choke
+Corrective Action: Replace new filter
+Spare Parts Replaced: FILTER ELEMENT (E24770Z00000) DT-04-10X-B
+Done By: David ( 0.5H ) / Liang  ( 0.5H )
+Support By:"
+103007,Door Issue,door cannot close,75866ab32c,No,Yes,2024-05-30 11:55:13,2024-05-30 15:41:40,49b43321e6,3.8,3.8,"Date: 	30/05/2024
+Problem:	door cannot close
+Cause: 	
+Corrective Action: 	DOOR INTERLOCK SWITCH AND KEY REPLACED TESTED AND H/O.
+Spare Parts Replaced:	
+Done By:	JAYA/AI BIN
+Supporting:	
+"
+103380,Conveyor Problem,The chip conveyor belt is stuck,75866ab32c,No,Yes,2024-06-20 20:33:21,2024-06-20 23:04:02,8fbfb9c567,2.5,2.5,"Date : 20/6/2024
+Problem :  The chip conveyor belt is stuck
+Cause :Chip block 
+Corrective Action :  Manually take out
+Spare Parts Replaced :
+Done By :Ravi and Karthik
+Supported By:"
+103445,Skimmer Needed/Not Working,SKIMMER NOT WORKING,cca197e97a,No,Yes,2024-06-25 13:11:03,2024-06-25 14:20:00,1c8e2c2ba9,1.1,1.1,"Date: 25/6/2024
+Problem: SKIMMER NOT WORKING
+Cause: belf loose
+Corrective Action: tighen belf
+Spare Parts Replaced:
+Done By: wang pravin
+Support By:"
+103553,Steady rest issues,"Steady rest cover not good need to repair, because make line mark on the OD.",5e04a7efb2,No,Yes,2024-07-03 08:27:59,2024-07-03 13:39:44,49b43321e6,5.2,5.2,"Date:3/7/2024 ?? 8:27
+Problem:Steady rest cover not good need to repair, because make line mark on the OD.
+Cause: 
+Corrective Action: repair ready,changed new caver one 
+Spare Parts Replaced:
+Done By:jaya/aibin 1(h)
+Supporting:-"
+103637,Skimmer Needed/Not Working,Skimmer not working,5e04a7efb2,No,Yes,2024-07-09 12:07:46,2024-07-09 16:28:27,49b43321e6,4.4,4.4,"Date: 9/7/2024
+Problem: Skimmer not working 
+Cause:   
+Corrective Action: replaced small roller and screw.
+Spare Parts Replaced:
+Done By: Jaya
+Supporting:-"
+103722,Skimmer Needed/Not Working,Oil skimmer not working need to repair,5e04a7efb2,No,Yes,2024-07-15 09:47:47,2024-07-15 18:34:00,90a39d38ed,8.8,8.8,"Date : 15/7/2024 
+Problem :Oil skimmer not working need to repair
+Cause: Found top pulley slip
+Corrective Action : Replaced new pully
+Spare Parts Replaced : inv no.1701
+Done By : Pravind"
+103766,Chuck Issue,Chuck clamp unclamp movement was very slow need to repair.,5e04a7efb2,No,Yes,2024-07-17 11:54:12,2024-07-17 12:44:17,fdfecab027,0.8,0.8,"Date : 17/7/2024 
+Problem :Chuck clamp unclamp movement was very slow need to repair.
+Cause: 
+Corrective Action : pressure and hydraulic oil as normal condition. test and h/o to production
+Spare Parts Replaced :
+Done By : David ( 0.5H ) / Karthik ( 0.5H )"
+103799,Problem Not Listed,209 slideway oil malfunction.,b179b7c8b4,No,Yes,2024-07-18 20:43:24,2024-07-19 04:43:59,02c8833e6d,7.3,8,"Date :18/7/2024 8:43 PM 
+Problem :209 slideway oil malfunction.
+Cause:Low level
+Corrective Action : Topped up oil and manually lubricated /Tested
+Spare Parts Replaced :No
+Done By : Kumar/Liang"
+103963,Coolant issues,Coolant pipe dropped,e6f3115736,No,Yes,2024-07-30 08:21:23,2024-07-30 10:39:11,a0c4f3f697,2.3,2.3,"Date: 30/7/2024 ?? 8:21
+Problem:	Coolant pipe dropped
+Cause: 	
+Corrective Action: 	cleaning pipe and cleraning chip, machine h/o
+Spare Parts Replaced:	
+Done By:	aibin2 (h)
+Supporting:	
+	
+"
+107269,Tool changer issues,runing  machine   .  tool cant change,4edf9b033e,No,Yes,2024-08-17 12:19:30,2024-08-17 15:08:49,1c8e2c2ba9,2.8,2.8,"Date:17/8/2024
+Problem:runing  machine   .  tool cant change 
+Cause: 
+Corrective Action: Manually move the spindle and automatically change the tool again. OK
+Spare Parts Replaced:
+Done By:   wang/kotian
+Supporting:-"
+107390,Tool changer issues,tool can not change,8bc911adfb,No,No,2024-09-14 21:52:27,2024-09-15 03:20:12,02c8833e6d,0,5.5,"Date : 14/9/2024 9:52 pm
+Problem :  tool can not change 
+Cause : Sequence wrong
+Corrective Action : Corrected tool sequence and tested
+Spare Parts Replaced :No
+Done By :Kumar/Jaya"
+107478,Alarms Machine not Down,1210 LINE FILTER MALFUNCTION,605c75f5b6,No,Yes,2024-09-19 23:41:04,2024-09-20 03:42:00,02c8833e6d,4,4,"Date: 19/9/2024
+Problem: 1210 LINE FILTER MALFUNCTION
+Cause: clogged filter
+Corrective Action: Replaced filter and tested
+Spare Parts Replaced:No
+Done By: Kumar/Karthik
+
+"
+107481,Spindle issue,Milling spindle did not unclamp need to repair.,5e04a7efb2,No,Yes,2024-09-20 09:07:33,2024-09-20 10:22:31,fdfecab027,1.3,1.3,"Date: 20/9/2024
+Problem: Milling spindle did not unclamp need to repair.
+Cause: 
+Corrective Action: reset and continual monitor
+Spare Parts Replaced:
+Done By: David ( 1H ) / pathiban ( 1H )"
+107528,Alarm Machine Down,357 TOOL SHIFTR&CARRIER POSI.ERROR,605c75f5b6,No,Yes,2024-09-23 23:38:50,2024-09-24 04:15:13,02c8833e6d,4.4,4.6,"Date : 23/9/2024
+Problem : 357 TOOL SHIFTR&CARRIER POSI.ERROR     
+Cause : 
+Corrective Action :Tool sequence wrong/Correct the sequence and tested
+Spare Parts Replaced :
+Done By : kumar/wang/kaith
+Supporting:"
+107543,Spindle issue,Mill spindle did not unclamp need to repair.,5e04a7efb2,No,Yes,2024-09-24 12:00:46,2024-09-24 12:07:29,eb22595030,0.1,0.1,"Date : 24/09/2024
+Problem:Mill spindle did not unclamp during milling mode.
+Cause : PCB faulty
+Corrective Action : PCB AP142 card replaced and testing okay.
+Spare Parts Replaced : D65UB004253 AP142 CARD
+Done By :Parthiban / Aibin
+Supporting:
+"
+107589,Steady rest issues,steady rest cover need to repair,5e04a7efb2,No,Yes,2024-09-26 12:34:03,2024-09-26 13:30:37,eb22595030,0.9,0.9,"Date : 26/09/2024
+Problem :  steady rest cover need to repair    
+Cause : Blade dent mark- Wear and tear
+Corrective Action : Replaced steady finger guard blade
+Spare Parts Replaced :Blade
+Done By : Parthiban
+Supporting:
+
+"
+107633,Chiller Unit Malfunction,301 chiller unit malfunction alarm,5e04a7efb2,No,Yes,2024-09-28 12:50:46,2024-09-28 14:22:51,49b43321e6,1.5,1.5,"Date : 28/9/2024 
+Problem : 301 chiller unit malfunction alarm
+Cause : 
+Corrective Action : Clean the return oil stainer and running the machine.
+Spare Parts Replaced :
+Done By : Jaya/Parthiban
+"
+107658,Problem Not Listed,"B0 & B90 deviation by -0.007""",e75a01c43e,No,Yes,2024-10-01 03:18:25,2024-10-02 13:24:40,8ba0076dee,20.9,34.1,"Date : 1/10/2024
+Cause : B0 & B90 deviation by -0.007""
+Corrective Action :Adjust the tool setting probe to calibrate the test workpiece
+OD  turning  ; -0.0003'
+ID   turning ; 0'
+length ; -0.0006'
+The machine has been submitted to the production department and can be run
+Spare Parts Replaced :
+Done By : liang
+
+Measured accuracy check /Pls folow up"
+107915,Door Issue,The door button is broken,75866ab32c,No,Yes,2024-10-17 00:41:00,2024-10-17 03:02:15,fdfecab027,0,2.4,"Date : 17/10/2024 
+Problem: The door button is broken
+Cause : button damage
+Corrective Action : Replace new button
+Spare Parts Replaced : Inv no : 2879
+Done By : David / pathiban
+Supporting:
+"
+108226,Axis is Noisy,The machine makes abnormal noise when retracting the tools,75866ab32c,No,Yes,2024-11-05 16:01:39,2024-11-08 03:21:23,eb22595030,42,59.3,"Date : 05/11/2024
+Problem: During memorey mode, when x axis up abnormal sound .Cause : Abnormal noice from the counter balance cylinder
+Corrective Action :Required to check /Top up gas on counter balance cylinder
+Spare Parts Replaced :
+Done By : Parthiban / Karthik/Kumar/Wang
+Supporting:
+
+Date : 06/11/2024
+Spare parts received from Mazak and replaced counter balance seal kit.Waiting for N2 gas to topup.
+Spares : G200ZZ052150 Counter balance seal kit.
+Done by : Mazak / Parthiban
+
+"
+108451,Alarms Machine not Down,1210 LINE FILTER MALFUNCTION,75866ab32c,No,Yes,2024-11-18 14:24:50,2024-11-18 15:22:48,fdfecab027,1,1,"Date: 18/11/2024 2:24 pm
+Problem: 1210 LINE FILTER MALFUNCTION
+Cause: filter choke
+Corrective Action: clean and test. okey and h/o to production
+Spare Parts Replaced:No
+Done By: david / liang"
+108464,Axis Is not align,The difference between 0 degrees and 90 degrees in the Z direction of the B axis is .0065,75866ab32c,No,Yes,2024-11-19 12:18:53,2024-11-19 18:40:21,3de2e22f41,6.4,6.4,"Date:  19/11/2024 12:18 pm
+Problem: The difference between 0 degrees and 90 degrees in the Z direction of the B axis is .0065
+Cause: mill spindle home position out by 0.006"" in turning mode
+Corrective Action: home position adjusted and ATC alignment verified test cut done with in tollerence
+OD Turning 90° = + 0.0006""
+ID Turning 0° = (-) 0.0005""
+Length (+) 0.0003""
+machine handed over to production
+Spare Parts Replaced:
+Done By: sampath /david / hai liang
+Support by:"
+108475,Coolant issues,Coolant motor abnormal sound,2a6b55b2d9,Yes,Yes,2024-11-19 20:23:29,2024-11-20 00:40:50,a368db371f,4.3,4.3,"Date: 19/11/2024
+Problem: Coolant motor abnormal sound.
+Cause: wear and tear 
+Corrective Action: replaced nerw coolant pump tested h/o.
+Spare Parts Replaced: inv card no 699
+Done By: Jaya/Karthik
+"
+108483,Door Issue,Door was not close need to repair,2a6b55b2d9,No,Yes,2024-11-20 05:15:15,2024-11-20 10:02:18,a0c4f3f697,2.5,4.8,"Date:  2024/11/20 5:15
+Problem:Door was not close need to repair
+Cause: 
+Corrective Action: changed new switch machine h/o
+Spare Parts Replaced:
+Done By: wang/aibin"
+108577,Machine leaks,HYDRAULIC UNIT OIL LEAKING,4b2fa0a0fd,No,No,2024-11-26 18:31:27,2024-11-27 07:55:43,a368db371f,0,13.4,"Date:  26/11/2024
+Problem:HYDRAULIC UNIT OIL LEAKING 
+Cause: suction filter punture
+Corrective Action: waiting for part
+Spare Parts Replaced: 
+Done By: Jaya/Karthik
+"
+109052,Chiller Unit Malfunction,301 chiller unit alarm,75866ab32c,No,Yes,2024-12-28 03:09:47,2024-12-28 03:45:26,02c8833e6d,0,0.6,"Date : 28/12/2024 3:09 am
+Problem:301 chiller unit alarm
+Cause : 
+Corrective Action : Reset and clear the alarm /Tested
+Spare Parts Replaced :No
+Done By :Kumar/Liang
+"
+109333,Problem Not Listed,Tool SHIFTER & CARRIER POSI. ERROR,08a3a1cd96,Yes,Yes,2025-01-17 08:06:35,2025-01-17 08:21:06,49b43321e6,0.3,0.3,"Date: 17/1/2025
+Problem: Tool SHIFTER & CARRIER POSI. ERROR
+Cause: ATC intruppted
+Corrective Action: manually recover the ATC test h/o
+Spare Parts Replaced:
+Done By: Jaya
+"
+109435,Alarm Machine Down,2 emergency stop,75866ab32c,No,Yes,2025-01-24 10:32:26,2025-01-24 13:21:45,1c8e2c2ba9,2.8,2.8,"Date: 24/1/2025 	
+Problem:	2 emergency stop
+Cause: 	301: CHILLER UNIT 
+MALFUNCTION
+Corrective Action: 	off the machine power   reset ok 
+Spare Parts Replaced:	
+Done By:	wang/jaya
+Supporting:	
+	
+"
+109547,Chiller Unit Malfunction,CHILLER UNIT MALFUNCTION ALARM CAME. MACHINE STOP WHILE RUNNING HALFWAY,4b2fa0a0fd,No,Yes,2025-02-05 10:40:57,2025-02-05 14:14:01,3de2e22f41,3.6,3.6,"Date : 5/2/2025 10:40 am
+Problem: 301 chiller unit malfunction machine stop half way while running
+Cause : under monitoring 
+Corrective Action : chiller unit working normal, alarm reset and handed over to production alarm repeted again need to replace chiller unit
+Spare Parts Replaced :
+Done By : sampath
+Supporting:"
+109565,Chiller Unit Malfunction,chiller unit malfunction alarm came( while do OD finishing 63finish),4b2fa0a0fd,No,Yes,2025-02-06 18:50:02,2025-02-07 03:04:50,a0c4f3f697,8.2,8.2,"Date : 6/2/2025
+Problem:chiller unit malfunction alarm came( while do OD finishing 63finish)
+Cause : 
+Corrective Action : no any alarm in chiller unit, reset and Rakesh dry run 5 cycles no alarm. 
+Day shift 07/02/2025 : replaced serviced chiller unit tested H/o.
+Sampath/Wang/kotian
+Spare Parts Replaced :
+Done By : Jaya/Ai Bin
+Supporting:
+
+
+Night no running the machine."
+109790,Alarm Machine Down,209 SLIDEWAY OIL MALFUNCTION,605c75f5b6,No,Yes,2025-02-24 08:31:42,2025-02-24 11:18:46,fdfecab027,2.8,2.8,"Date: 24/2/2025 8:31 am
+Problem: 209 SLIDEWAY OIL MALFUNCTION
+Cause: Air lock
+Corrective Action: release air and tested okey. h/o to production
+Spare Parts Replaced:
+Done By: david
+Support By:"
+109794,Tool changer issues,Machine can not change Tools,605c75f5b6,No,Yes,2025-02-24 13:25:06,2025-02-24 14:00:52,02c8833e6d,0.6,0.6,"Date:  24/2/2025 1:25 pm
+Problem:Machine can not change Tools
+Cause: Tool sequence wrong
+Corrective Action: Corrected squence and tested
+Spare Parts Replaced:No
+Done By:Kumar/Parthiban"
+109929,Alarms Machine not Down,LINE FILTER MALFUNCTION,08a3a1cd96,No,Yes,2025-03-06 12:36:42,2025-03-06 14:16:48,eb22595030,1.7,1.7,"Date: 06/03/2025
+Problem: LINE FILTER MALFUNCTION
+Cause: -
+Corrective Action: Removed and cleaned done.
+Spare Parts Replaced:-
+Done By: Parthiban 
+Support By:"
+109942,Problem Not Listed,SLIDEWAY OIL MALFUNCTION,08a3a1cd96,Yes,Yes,2025-03-07 07:56:03,2025-03-07 09:08:39,1c8e2c2ba9,1.2,1.2,"Date: 2025/3/7 7:56
+Problem:SLIDEWAY OIL MALFUNCTION
+Cause: 
+Corrective Action: 	repair ready
+Spare Parts Replaced:	
+Done By:	sampath/wang
+Supporting:	
+"
