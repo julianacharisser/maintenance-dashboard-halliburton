@@ -7,12 +7,12 @@ A Streamlit app to analyze technician maintenance logs and predict machine downt
 - Time Trends: Spot hourly and daily spikes in incidents
 - Downtime Prediction Tool: Enter a technician’s note and predict the likelihood of machine downtime using a DataRobot-trained model
 
-✍️ How to Use
+## ✍️ How to Use
 1. Use the sidebar to filter incidents by problem code or date
 2. Scroll through the key metrics and visualizations to spot patterns
 3. Enter a technician note into the prediction tool to simulate whether it may cause downtime
 4. Use insights to prioritize failure types and allocate resources
 
-🧩 Limitations
+## 🧩 Limitations
 - Predictions depend on the quality of technician notes
 - Further validation is needed before deployment in production
