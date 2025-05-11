@@ -68,6 +68,30 @@ col6.metric("Downtime Rate", f"{downtime_rate * 100:.1f}%")
 
 st.divider() 
 
+# Static Model Predictions Table ###############################################
+st.subheader("🤖 Predicted High Risk Tickets")
+
+st.caption("This is a static example to demonstrate what predictive output might look like.")
+
+prediction_data = pd.DataFrame({
+    "Ticket ID": [1001, 1002, 1003, 1004, 1005],
+    "Problem Description": [
+        "Axis noise on startup",
+        "Tool jammed during operation",
+        "Oil leakage from spindle",
+        "Digital readout not responding",
+        "Unusual vibration detected"
+    ],
+    "Predicted Downtime Risk (%)": [92, 65, 74, 88, 59],
+    "Predicted Safety Risk (%)": [77, 12, 45, 68, 30],
+    "Suggested Priority": ["🔴 High", "🟡 Medium", "🟡 Medium", "🔴 High", "🟡 Medium"]
+})
+st.dataframe(prediction_data, use_container_width=True)
+
+st.caption("Disclaimer: This dashboard is a proof-of-concept. Visualizations and models are based on limited or simulated data.")
+
+st.divider()
+
 # Downtime Insights ###############################################
 
 st.header("🔍 Downtime Insights")
@@ -113,29 +137,7 @@ st.bar_chart(top_risk)
 
 st.divider() 
 
-# Static Model Predictions Table ###############################################
-st.subheader("🤖 Model Predictions (Simulated)")
-
-st.caption("This is a static example to demonstrate what predictive output might look like.")
-
-prediction_data = pd.DataFrame({
-    "Ticket ID": [1001, 1002, 1003, 1004, 1005],
-    "Problem Description": [
-        "Axis noise on startup",
-        "Tool jammed during operation",
-        "Oil leakage from spindle",
-        "Digital readout not responding",
-        "Unusual vibration detected"
-    ],
-    "Predicted Downtime Risk (%)": [92, 65, 74, 88, 59],
-    "Predicted Safety Risk (%)": [77, 12, 45, 68, 30],
-    "Suggested Priority": ["🔴 High", "🟡 Medium", "🟡 Medium", "🔴 High", "🟡 Medium"]
-})
-st.dataframe(prediction_data, use_container_width=True)
-
-st.caption("Disclaimer: This dashboard is a proof-of-concept. Visualizations and models are based on limited or simulated data.")
-
-st.divider() ###############################################
+# Predict Downtime ###############################################
 
 st.subheader("🔍 Predict Downtime from Technician Notes")
 user_input = st.text_area("Enter maintenance note:")
