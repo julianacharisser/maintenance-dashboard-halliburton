@@ -7,6 +7,10 @@ import joblib
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import CountVectorizer
 from datetime import datetime
+import seaborn as sns
+
+# Set styles
+sns.set(style="whitegrid")
 
 st.set_page_config(page_title="Maintenance Risk Dashboard", layout="wide")
 st.title("🛠️ Halliburton Maintenance Analytics")
@@ -66,6 +70,27 @@ col5.metric("Downtime Rate", f"{downtime_rate*100:.1f}%")
 col6.metric("Safety & Downtime", f"{safety_downtime_rate*100:.1f}%")
 
 st.divider() 
+
+# Downtime Insights ###############################################
+
+st.header("🔍 Downtime Insights")
+
+# 1. Bar chart: Top 5 Problem Types by MachineHoursLost
+st.subheader("Top 5 Problem Types by Machine Hours Lost")
+top5_loss = df.groupby("MaintenanceProblemCode")["MachineHoursLost"].sum().sort_values(ascending=False).head(5)
+st.bar_chart(top5_loss)
+
+# 2. Scatter Plot: Outlier Detection
+st.subheader("Outlier Detection: MachineHoursLost vs. Abnormality ID")
+plt.figure(figsize=(10, 4))
+sns.scatterplot(data=df, x="Abnormality_ID", y="MachineHoursLost", hue="MaintenanceProblemCode", legend=False)
+plt.xticks(rotation=90)
+plt.ylabel("Machine Hours Lost")
+plt.title("Outliers in Machine Hours Lost by Abnormality ID")
+st.pyplot(plt.gcf())
+plt.clf()
+
+st.divider()
 
 # Resolution Insights ###############################################
 
