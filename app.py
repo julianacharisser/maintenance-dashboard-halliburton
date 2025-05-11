@@ -67,6 +67,30 @@ col6.metric("Safety & Downtime", f"{safety_downtime_rate*100:.1f}%")
 
 st.divider() 
 
+# Resolution Insights ###############################################
+
+st.header("⏱️ Resolution Insights")
+
+# 1. Median Time to Close by Problem Code
+st.subheader("Top 10 Issues by Median Time to Close")
+median_resolution = df.groupby("MaintenanceProblemCode")["TotalHoursToClose"].median().sort_values(ascending=False).head(10)
+st.bar_chart(median_resolution)
+
+# 2. Safety vs Productivity Risk Matrix
+st.subheader("Safety vs. Productivity Risk Matrix")
+risk_data = df.groupby("MaintenanceProblemCode").agg({
+    "MachineDownBool": "mean",
+    "SafetyIssueBool": "mean"
+}).rename(columns={
+    "MachineDownBool": "% Downtime Issues",
+    "SafetyIssueBool": "% Safety Issues"
+}) * 100
+
+top_risk = risk_data.sort_values("% Downtime Issues", ascending=False).head(10)
+st.bar_chart(top_risk)
+
+st.divider() 
+
 # Static Model Predictions Table ###############################################
 st.subheader("🤖 Model Predictions (Simulated)")
 
