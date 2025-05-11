@@ -1,18 +1,44 @@
-# 🛠️ Maintenance Risk Dashboard
-A Streamlit app to analyze technician maintenance logs and predict machine downtime using natural language in technician notes.
+# 🛠️ Halliburton Maintenance Analytics Dashboard
+A Streamlit-powered dashboard to analyze Halliburton’s maintenance logs, uncover downtime trends, and predict risk using natural language from technician notes.
 
 ## 🔍 Features
-- Key Metrics: View average downtime, safety incident rate, and closure time
-- Top Problem Codes & Action Owners: Identify the most common failure types and who responds to them
-- Time Trends: Spot hourly and daily spikes in incidents
-- Downtime Prediction Tool: Enter a technician’s note and predict the likelihood of machine downtime using a DataRobot-trained model
 
-## ✍️ How to Use
-1. Use the sidebar to filter incidents by problem code or date
-2. Scroll through the key metrics and visualizations to spot patterns
-3. Enter a technician note into the prediction tool to simulate whether it may cause downtime
-4. Use insights to prioritize failure types and allocate resources
+- **Key Metrics**  
+  View total incidents, average downtime, safety issue rate, and closure time.
 
-## 🧩 Limitations
-- Predictions depend on the quality of technician notes
-- Further validation is needed before deployment in production
+- **Top Problem Codes**  
+  Identify the biggest downtime contributors and resolution bottlenecks.
+
+- **Risk & Resolution Insights**  
+  Visualize median resolution time and safety vs. productivity risk by issue type.
+
+- **Downtime Prediction Tool**  
+  Enter technician notes and predict machine downtime risk using a DataRobot-trained model.
+
+- **Outlier Detection**  
+  Detect abnormal incidents with unusually high downtime for further root cause analysis.
+
+---
+
+## 🧪 How to Use
+
+1. Use the sidebar to filter data by maintenance code or date range.
+2. Explore key metrics and visualizations to identify patterns and top risks.
+3. Scroll through downtime and resolution insights to prioritize attention.
+4. Enter a technician note into the predictor to estimate risk and triage smarter.
+
+---
+
+## ⚠️ Limitations
+
+- Predictions depend heavily on the clarity and consistency of technician notes.
+- This dashboard is a proof-of-concept and not yet validated for production deployment.
+
+---
+
+## 💡 Technologies Used
+
+- Python, Streamlit, pandas, seaborn, matplotlib
+- Scikit-learn (Random Forest model)
+- Joblib for model loading
+- DataRobot for model training and export
