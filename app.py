@@ -9,7 +9,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from datetime import datetime
 
 st.set_page_config(page_title="Maintenance Risk Dashboard", layout="wide")
-st.title("🛠️ Maintenance Risk Dashboard")
+st.title("🛠️ Halliburton Maintenance Analytics")
 
 # Load data and model
 @st.cache_data
@@ -52,7 +52,8 @@ top_action_owners = df['Action Owner'].value_counts().nlargest(10)
 hourly_distribution = df['Hour'].value_counts().sort_index()
 daily_incidents = df.groupby('Date').size()
 
-# Display metrics
+# Key metrics ###############################################
+
 st.header("📊 Key Metrics")
 col1, col2, col3 = st.columns(3)
 col1.metric("Total Incidents", f"{total_incidents}")
@@ -64,42 +65,31 @@ col4.metric("Safety Issue Rate", f"{safety_issue_rate*100:.1f}%")
 col5.metric("Downtime Rate", f"{downtime_rate*100:.1f}%")
 col6.metric("Safety & Downtime", f"{safety_downtime_rate*100:.1f}%")
 
-st.divider()
+st.divider() 
 
-st.subheader("🔧 Top Maintenance Problem Codes")
-st.caption("This chart shows the most frequent types of problems reported.")
-st.bar_chart(top_problem_codes)
+# Static Model Predictions Table ###############################################
+st.subheader("🤖 Model Predictions (Simulated)")
 
-st.subheader("👷 Top Action Owners")
-st.caption("Who is most frequently handling maintenance incidents.")
-st.bar_chart(top_action_owners)
+st.caption("This is a static example to demonstrate what predictive output might look like.")
 
-st.subheader("🕒 Incidents by Hour")
-st.caption("Understand at what time of day incidents occur most frequently.")
-st.bar_chart(hourly_distribution)
+prediction_data = pd.DataFrame({
+    "Ticket ID": [1001, 1002, 1003, 1004, 1005],
+    "Problem Description": [
+        "Axis noise on startup",
+        "Tool jammed during operation",
+        "Oil leakage from spindle",
+        "Digital readout not responding",
+        "Unusual vibration detected"
+    ],
+    "Predicted Downtime Risk (%)": [92, 65, 74, 88, 59],
+    "Predicted Safety Risk (%)": [77, 12, 45, 68, 30],
+    "Suggested Priority": ["🔴 High", "🟡 Medium", "🟡 Medium", "🔴 High", "🟡 Medium"]
+})
+st.dataframe(prediction_data, use_container_width=True)
 
-st.subheader("📈 Daily Incident Trend")
-st.caption("Time series analysis of maintenance incidents over time.")
-fig, ax = plt.subplots(figsize=(10, 4))
-daily_incidents.plot(ax=ax)
-ax.set_ylabel("Incident Count")
-ax.set_xlabel("Date")
-ax.set_title("Daily Maintenance Incidents Over Time")
-st.pyplot(fig)
+st.caption("Disclaimer: This dashboard is a proof-of-concept. Visualizations and models are based on limited or simulated data.")
 
-# Simulated time series feed (example)
-st.subheader("🕰️ Simulated Time Series Feed")
-st.caption("Simulating sensor or event feed using NumPy and time.")
-dates = pd.date_range(end=datetime.today(), periods=30)
-simulated_data = np.random.poisson(lam=5, size=len(dates))
-sim_df = pd.DataFrame({"Date": dates, "Incidents": simulated_data})
-fig2, ax2 = plt.subplots(figsize=(10, 4))
-sim_df.set_index("Date").plot(ax=ax2)
-ax2.set_ylabel("Simulated Events")
-ax2.set_title("Simulated Daily Feed")
-st.pyplot(fig2)
-
-st.divider()
+st.divider() ###############################################
 
 st.subheader("🔍 Predict Downtime from Technician Notes")
 user_input = st.text_area("Enter maintenance note:")
@@ -110,4 +100,6 @@ if user_input:
     prob = model.predict_proba(vect)[0][1 if pred else 0] * 100
     st.success(f"Prediction: {'Machine Down' if pred else 'No Downtime'} ({prob:.1f}% confidence)")
 
-st.caption("Built with ❤️ using Streamlit and scikit-learn")
+st.divider()
+
+
