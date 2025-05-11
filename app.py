@@ -44,30 +44,27 @@ if selected_code:
 if len(selected_date) == 2:
     df = df[(df['Date_Created'] >= pd.to_datetime(selected_date[0])) & (df['Date_Created'] <= pd.to_datetime(selected_date[1]))]
 
+
+# Key metrics ###############################################
+
 # Calculate metrics
 total_incidents = df.shape[0]
-avg_hours_lost = df['MachineHoursLost'].mean()
+total_downtime = df['MachineHoursLost'].sum()
+avg_downtime = df['MachineHoursLost'].mean()
 avg_close_time = df['TotalHoursToClose'].mean()
 safety_issue_rate = df['SafetyIssueBool'].mean()
 downtime_rate = df['MachineDownBool'].mean()
-safety_downtime_rate = df[df['SafetyIssueBool']]['MachineDownBool'].mean()
-top_problem_codes = df['MaintenanceProblemCode'].value_counts().nlargest(10)
-top_action_owners = df['Action Owner'].value_counts().nlargest(10)
-hourly_distribution = df['Hour'].value_counts().sort_index()
-daily_incidents = df.groupby('Date').size()
-
-# Key metrics ###############################################
 
 st.header("📊 Key Metrics")
 col1, col2, col3 = st.columns(3)
 col1.metric("Total Incidents", f"{total_incidents}")
-col2.metric("Avg. Downtime (hrs)", f"{avg_hours_lost:.2f}")
-col3.metric("Avg. Close Time (hrs)", f"{avg_close_time:.2f}")
+col2.metric("Total Downtime (hrs)", f"{total_downtime:.0f}")
+col3.metric("Avg. Downtime (hrs)", f"{avg_downtime:.2f}")
 
 col4, col5, col6 = st.columns(3)
-col4.metric("Safety Issue Rate", f"{safety_issue_rate*100:.1f}%")
-col5.metric("Downtime Rate", f"{downtime_rate*100:.1f}%")
-col6.metric("Safety & Downtime", f"{safety_downtime_rate*100:.1f}%")
+col4.metric("Avg. Time to Close (hrs)", f"{avg_close_time:.2f}")
+col5.metric("Safety Issues Rate", f"{safety_issue_rate * 100:.1f}%")
+col6.metric("Downtime Rate", f"{downtime_rate * 100:.1f}%")
 
 st.divider() 
 
